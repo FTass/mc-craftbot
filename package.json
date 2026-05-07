@@ -1,0 +1,17 @@
+{
+  "name": "mc-craftbot",
+  "version": "1.0.0",
+  "description": "A simple chatbot that helps you craft items in Minecraft step by step",
+  "main": "src/bot/index.js",
+  "scripts": {
+    "start": "node src/bot/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "minecraft",
+    "bot",
+    "crafting",
+    "chatbot"
+  ],
+  "license": "MIT"
+}
