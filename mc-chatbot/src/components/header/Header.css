@@ -1,15 +1,12 @@
 .header {
-  background: linear-gradient(45deg, #1e9928 25%, transparent 25%, transparent 75%, #1e9928 75%, #1e9928),
-              linear-gradient(45deg, #1e9928 25%, transparent 25%, transparent 75%, #1e9928 75%, #1e9928);
+  background: linear-gradient(45deg, #0d6e15 25%, transparent 25%, transparent 75%, #0d6e15 75%, #0d6e15),
+              linear-gradient(45deg, #0d6e15 25%, transparent 25%, transparent 75%, #0d6e15 75%, #0d6e15);
   background-size: 20px 20px;
   background-position: 0 0, 10px 10px;
-  background-color: #1a7a1f;
+  background-color: #08630c;
   display: flex;
-  /* justify-content: space-between;
-  align-items: center; */
   padding: 1rem 1.5rem;
   border-bottom: 1px solid #3f3e3e;
-  /* background: #1e9928; */
   color: white;
 }
 

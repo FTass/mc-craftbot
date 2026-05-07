@@ -1,8 +1,8 @@
 :root { --header-height: 88px; }
 main {
   
-    background: linear-gradient(45deg, #8f5913bd 25%, transparent 25%, transparent 75%, #8f5913bd  75%, #8f5913bd ),
-                linear-gradient(45deg, #8f5913bd  25%, transparent 25%, transparent 75%, #8f5913bd  75%, #8f5913bd );
+    background: linear-gradient(45deg, #683e08bd 25%, transparent 25%, transparent 75%, #683e08bd  75%, #683e08bd ),
+                linear-gradient(45deg, #683e08bd  25%, transparent 25%, transparent 75%, #683e08bd  75%, #683e08bd );
     background-size: 20px 20px;
     background-position: 0 0, 10px 10px;
     /* display: flex;
