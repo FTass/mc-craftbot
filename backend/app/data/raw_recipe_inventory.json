@@ -1,0 +1,7352 @@
+[
+  {
+    "file": "acacia_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "acacia_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "acacia_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "acacia_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "acacia_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "activator_rail.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "amethyst_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "andesite.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "andesite_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "andesite_slab_from_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "andesite_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "andesite_stairs_from_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "andesite_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "andesite_wall_from_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "anvil.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "armor_dye.json",
+    "type": "minecraft:crafting_special_armordye",
+    "included": true
+  },
+  {
+    "file": "armor_stand.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "arrow.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "baked_potato.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "baked_potato_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "baked_potato_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "bamboo_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "bamboo_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "bamboo_chest_raft.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "bamboo_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_mosaic.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_mosaic_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_mosaic_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "bamboo_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_raft.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bamboo_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "banner_duplicate.json",
+    "type": "minecraft:crafting_special_bannerduplicate",
+    "included": true
+  },
+  {
+    "file": "barrel.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "beacon.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "beehive.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "beetroot_soup.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "birch_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "birch_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "birch_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "birch_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "birch_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "black_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "black_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "black_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "black_dye_from_wither_rose.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "black_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "black_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "black_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "black_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blackstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blackstone_slab_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "blackstone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blackstone_stairs_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "blackstone_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blackstone_wall_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "blast_furnace.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blaze_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "blue_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blue_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blue_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "blue_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "blue_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blue_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "blue_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "blue_dye_from_cornflower.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "blue_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "blue_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blue_ice.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "blue_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "blue_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blue_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blue_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "blue_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bolt_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bolt_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "bone_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bone_meal.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "bone_meal_from_bone_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "book.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "book_cloning.json",
+    "type": "minecraft:crafting_special_bookcloning",
+    "included": true
+  },
+  {
+    "file": "bookshelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bordure_indented_banner_pattern.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "bow.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bowl.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bread.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brewing_stand.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brick.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brick_slab_from_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brick_stairs_from_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brick_wall_from_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "brown_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "brown_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "brown_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "brown_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "brown_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "brown_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brown_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "brush.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bucket.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "bundle.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cake.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "calibrated_sculk_sensor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "campfire.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "candle.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "carrot_on_a_stick.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cartography_table.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cauldron.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "charcoal.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cherry_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "cherry_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "cherry_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "cherry_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cherry_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chest.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chest_minecart.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "chiseled_bookshelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_copper_from_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_copper_from_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_deepslate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_deepslate_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_nether_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_nether_bricks_from_nether_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_polished_blackstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_polished_blackstone_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_polished_blackstone_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_quartz_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_quartz_block_from_quartz_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_red_sandstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_red_sandstone_from_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_resin_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_resin_bricks_from_resin_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_sandstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_sandstone_from_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_stone_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_stone_bricks_from_stone_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_stone_bricks_stone_from_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_tuff.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_tuff_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "chiseled_tuff_bricks_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_tuff_bricks_from_tuff_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_tuff_bricks_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "chiseled_tuff_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "clay.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "clock.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "coal.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "coal_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "coal_from_blasting_coal_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "coal_from_blasting_deepslate_coal_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "coal_from_smelting_coal_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "coal_from_smelting_deepslate_coal_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "coarse_dirt.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "coast_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "coast_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "cobbled_deepslate_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cobbled_deepslate_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cobbled_deepslate_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cobblestone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cobblestone_slab_from_cobblestone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cobblestone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cobblestone_stairs_from_cobblestone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cobblestone_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cobblestone_wall_from_cobblestone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "comparator.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "compass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "composter.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "conduit.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cooked_beef.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cooked_beef_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "cooked_beef_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "cooked_chicken.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cooked_chicken_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "cooked_chicken_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "cooked_cod.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cooked_cod_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "cooked_cod_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "cooked_mutton.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cooked_mutton_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "cooked_mutton_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "cooked_porkchop.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cooked_porkchop_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "cooked_porkchop_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "cooked_rabbit.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cooked_rabbit_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "cooked_rabbit_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "cooked_salmon.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cooked_salmon_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "cooked_salmon_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "cookie.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_axe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_bars.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_boots.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_chain.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_chest.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_chestplate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_grate_from_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "copper_helmet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_hoe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_ingot.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "copper_ingot_from_blasting_copper_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "copper_ingot_from_blasting_deepslate_copper_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "copper_ingot_from_blasting_raw_copper.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "copper_ingot_from_nuggets.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_ingot_from_smelting_copper_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "copper_ingot_from_smelting_deepslate_copper_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "copper_ingot_from_smelting_raw_copper.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "copper_ingot_from_waxed_copper_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "copper_lantern.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_leggings.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_nugget.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "copper_nugget_from_blasting.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "copper_nugget_from_smelting.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "copper_pickaxe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_shovel.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_spear.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_sword.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_torch.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "copper_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cracked_deepslate_bricks.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cracked_deepslate_tiles.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cracked_nether_bricks.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cracked_polished_blackstone_bricks.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cracked_stone_bricks.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "crafter.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crafting_table.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "creaking_heart.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "creeper_banner_pattern.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "crimson_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "crimson_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_hyphae.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "crimson_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crimson_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "crossbow.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_copper_from_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_copper_slab_from_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_copper_slab_from_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_copper_stairs_from_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_copper_stairs_from_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_red_sandstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_red_sandstone_from_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_red_sandstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_red_sandstone_slab_from_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_sandstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_sandstone_from_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_sandstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cut_sandstone_slab_from_cut_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cut_sandstone_slab_from_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "cyan_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cyan_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cyan_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "cyan_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "cyan_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cyan_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "cyan_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "cyan_dye_from_pitcher_plant.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "cyan_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "cyan_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cyan_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "cyan_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cyan_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cyan_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "cyan_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dark_oak_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dark_oak_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dark_oak_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_oak_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_prismarine.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_prismarine_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_prismarine_slab_from_dark_prismarine_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "dark_prismarine_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dark_prismarine_stairs_from_dark_prismarine_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "daylight_detector.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "decorated_pot.json",
+    "type": "minecraft:crafting_decorated_pot",
+    "included": true
+  },
+  {
+    "file": "decorated_pot_simple.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_brick_slab_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_slab_from_deepslate_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_slab_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_brick_stairs_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_stairs_from_deepslate_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_stairs_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_brick_wall_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_wall_from_deepslate_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_brick_wall_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_bricks_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_bricks_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_tile_slab_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_slab_from_deepslate_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_slab_from_deepslate_tiles_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_slab_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_tile_stairs_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_stairs_from_deepslate_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_stairs_from_deepslate_tiles_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_stairs_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_tile_wall_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_wall_from_deepslate_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_wall_from_deepslate_tiles_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tile_wall_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tiles.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "deepslate_tiles_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tiles_from_deepslate_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "deepslate_tiles_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "detector_rail.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "diamond_axe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_boots.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_chestplate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_from_blasting_deepslate_diamond_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "diamond_from_blasting_diamond_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "diamond_from_smelting_deepslate_diamond_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "diamond_from_smelting_diamond_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "diamond_helmet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_hoe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_leggings.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_pickaxe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_shovel.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_spear.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diamond_sword.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diorite.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diorite_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diorite_slab_from_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "diorite_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diorite_stairs_from_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "diorite_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "diorite_wall_from_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "dispenser.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dried_ghast.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dried_kelp.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dried_kelp_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dried_kelp_from_campfire_cooking.json",
+    "type": "minecraft:campfire_cooking",
+    "included": false
+  },
+  {
+    "file": "dried_kelp_from_smelting.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "dried_kelp_from_smoking.json",
+    "type": "minecraft:smoking",
+    "included": false
+  },
+  {
+    "file": "dripstone_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dropper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dune_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "dune_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "dye_black_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_black_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_black_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_black_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_blue_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_blue_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_blue_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_blue_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_brown_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_brown_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_brown_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_brown_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_cyan_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_cyan_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_cyan_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_cyan_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_gray_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_gray_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_gray_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_gray_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_green_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_green_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_green_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_green_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_blue_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_blue_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_blue_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_blue_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_gray_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_gray_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_gray_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_light_gray_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_lime_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_lime_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_lime_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_lime_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_magenta_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_magenta_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_magenta_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_magenta_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_orange_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_orange_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_orange_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_orange_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_pink_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_pink_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_pink_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_pink_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_purple_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_purple_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_purple_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_purple_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_red_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_red_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_red_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_red_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_white_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_white_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_white_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_white_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_yellow_bed.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_yellow_carpet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_yellow_harness.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "dye_yellow_wool.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "emerald.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "emerald_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "emerald_from_blasting_deepslate_emerald_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "emerald_from_blasting_emerald_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "emerald_from_smelting_deepslate_emerald_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "emerald_from_smelting_emerald_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "enchanting_table.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "end_crystal.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "end_rod.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "end_stone_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "end_stone_brick_slab_from_end_stone_brick_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "end_stone_brick_slab_from_end_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "end_stone_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "end_stone_brick_stairs_from_end_stone_brick_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "end_stone_brick_stairs_from_end_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "end_stone_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "end_stone_brick_wall_from_end_stone_brick_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "end_stone_brick_wall_from_end_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "end_stone_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "end_stone_bricks_from_end_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "ender_chest.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "ender_eye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "exposed_chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "exposed_chiseled_copper_from_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "exposed_chiseled_copper_from_exposed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "exposed_copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "exposed_copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "exposed_copper_grate_from_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "exposed_cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "exposed_cut_copper_from_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "exposed_cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "exposed_cut_copper_slab_from_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "exposed_cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "exposed_cut_copper_stairs_from_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "eye_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "eye_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "fermented_spider_eye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "field_masoned_banner_pattern.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "fire_charge.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "firework_rocket.json",
+    "type": "minecraft:crafting_special_firework_rocket",
+    "included": true
+  },
+  {
+    "file": "firework_rocket_simple.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "firework_star.json",
+    "type": "minecraft:crafting_special_firework_star",
+    "included": true
+  },
+  {
+    "file": "firework_star_fade.json",
+    "type": "minecraft:crafting_special_firework_star_fade",
+    "included": true
+  },
+  {
+    "file": "fishing_rod.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "fletching_table.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "flint_and_steel.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "flow_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "flow_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "flower_banner_pattern.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "flower_pot.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "furnace.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "furnace_minecart.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "glass.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "glass_bottle.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "glistering_melon_slice.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "glow_item_frame.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "glowstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gold_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gold_ingot_from_blasting_deepslate_gold_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "gold_ingot_from_blasting_gold_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "gold_ingot_from_blasting_nether_gold_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "gold_ingot_from_blasting_raw_gold.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "gold_ingot_from_gold_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "gold_ingot_from_nuggets.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gold_ingot_from_smelting_deepslate_gold_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "gold_ingot_from_smelting_gold_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "gold_ingot_from_smelting_nether_gold_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "gold_ingot_from_smelting_raw_gold.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "gold_nugget.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "gold_nugget_from_blasting.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "gold_nugget_from_smelting.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "golden_apple.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_axe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_boots.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_carrot.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_chestplate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_helmet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_hoe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_leggings.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_pickaxe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_shovel.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_spear.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "golden_sword.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "granite.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "granite_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "granite_slab_from_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "granite_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "granite_stairs_from_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "granite_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "granite_wall_from_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "gray_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gray_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gray_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "gray_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "gray_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gray_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "gray_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "gray_dye_from_closed_eyeblossom.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "gray_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "gray_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gray_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "gray_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gray_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gray_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "gray_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "green_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "green_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "green_dye.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "green_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "green_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "green_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "green_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "grindstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "hay_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "heavy_weighted_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "honey_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "honey_bottle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "honeycomb_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "hopper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "hopper_minecart.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "host_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "host_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "iron_axe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_bars.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_boots.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_chain.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_chestplate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_helmet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_hoe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_ingot_from_blasting_deepslate_iron_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "iron_ingot_from_blasting_iron_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "iron_ingot_from_blasting_raw_iron.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "iron_ingot_from_iron_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "iron_ingot_from_nuggets.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_ingot_from_smelting_deepslate_iron_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "iron_ingot_from_smelting_iron_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "iron_ingot_from_smelting_raw_iron.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "iron_leggings.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_nugget.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "iron_nugget_from_blasting.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "iron_nugget_from_smelting.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "iron_pickaxe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_shovel.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_spear.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_sword.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "iron_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "item_frame.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jack_o_lantern.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jukebox.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "jungle_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "jungle_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "jungle_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "jungle_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "ladder.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lantern.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lapis_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lapis_lazuli.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "lapis_lazuli_from_blasting_deepslate_lapis_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "lapis_lazuli_from_blasting_lapis_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "lapis_lazuli_from_smelting_deepslate_lapis_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "lapis_lazuli_from_smelting_lapis_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "lead.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "leaf_litter.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "leather.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "leather_boots.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "leather_chestplate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "leather_helmet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "leather_horse_armor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "leather_leggings.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lectern.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lever.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "light_blue_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_blue_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_blue_dye_from_blue_orchid.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_blue_dye_from_blue_white_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_blue_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "light_blue_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "light_blue_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_blue_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "light_gray_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_gray_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_gray_dye_from_azure_bluet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_gray_dye_from_black_white_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_gray_dye_from_gray_white_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_gray_dye_from_oxeye_daisy.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_gray_dye_from_white_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "light_gray_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "light_gray_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "light_gray_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_gray_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "light_weighted_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lightning_rod.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "lime_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "lime_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "lime_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "lime_dye_from_smelting.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "lime_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "lime_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "lime_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lime_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "lodestone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "loom.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mace.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "magenta_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "magenta_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "magenta_dye_from_allium.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "magenta_dye_from_blue_red_pink.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "magenta_dye_from_blue_red_white_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "magenta_dye_from_lilac.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "magenta_dye_from_purple_and_pink.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "magenta_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "magenta_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "magenta_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magenta_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magma_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "magma_cream.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mangrove_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mangrove_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mangrove_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mangrove_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mangrove_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "map.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "map_cloning.json",
+    "type": "minecraft:crafting_special_mapcloning",
+    "included": true
+  },
+  {
+    "file": "map_extending.json",
+    "type": "minecraft:crafting_special_mapextending",
+    "included": true
+  },
+  {
+    "file": "melon.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "melon_seeds.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "minecart.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mojang_banner_pattern.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "moss_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mossy_cobblestone_from_moss_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mossy_cobblestone_from_vine.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mossy_cobblestone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mossy_cobblestone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mossy_cobblestone_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mossy_stone_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mossy_stone_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mossy_stone_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mossy_stone_bricks_from_moss_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mossy_stone_bricks_from_vine.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mud_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mud_brick_slab_from_mud_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mud_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mud_brick_stairs_from_mud_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mud_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "mud_brick_wall_from_mud_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "mud_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "muddy_mangrove_roots.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "mushroom_stew.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "music_disc_5.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "nether_brick.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "nether_brick_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "nether_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "nether_brick_slab_from_nether_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "nether_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "nether_brick_stairs_from_nether_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "nether_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "nether_brick_wall_from_nether_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "nether_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "nether_wart_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "netherite_axe_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "netherite_boots_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_chestplate_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_helmet_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_hoe_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_horse_armor_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_ingot.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "netherite_ingot_from_netherite_block.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "netherite_leggings_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_nautilus_armor_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_pickaxe_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_scrap.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "netherite_scrap_from_blasting.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "netherite_shovel_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_spear_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_sword_smithing.json",
+    "type": "minecraft:smithing_transform",
+    "included": false
+  },
+  {
+    "file": "netherite_upgrade_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "note_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "oak_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "oak_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "oak_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oak_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "observer.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "orange_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "orange_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "orange_dye_from_open_eyeblossom.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "orange_dye_from_orange_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "orange_dye_from_red_yellow.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "orange_dye_from_torchflower.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "orange_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "orange_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "orange_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "orange_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oxidized_chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oxidized_chiseled_copper_from_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "oxidized_copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oxidized_copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oxidized_copper_grate_from_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "oxidized_cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oxidized_cut_copper_from_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "oxidized_cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oxidized_cut_copper_slab_from_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "oxidized_cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "packed_ice.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "packed_mud.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "painting.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_moss_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pale_oak_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pale_oak_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pale_oak_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pale_oak_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "paper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "pink_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pink_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pink_dye_from_cactus_flower.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pink_dye_from_peony.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pink_dye_from_pink_petals.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pink_dye_from_pink_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pink_dye_from_red_white_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pink_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "pink_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "pink_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "pink_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "piston.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_andesite.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_andesite_from_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_andesite_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_andesite_slab_from_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_andesite_slab_from_polished_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_andesite_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_andesite_stairs_from_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_andesite_stairs_from_polished_andesite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_basalt.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_basalt_from_basalt_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_brick_slab_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_slab_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_brick_stairs_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_brick_wall_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_brick_wall_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_bricks_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_bricks_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_slab_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_slab_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_stairs_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_stairs_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_blackstone_wall_from_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_blackstone_wall_from_polished_blackstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_deepslate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_deepslate_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_deepslate_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_deepslate_slab_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_deepslate_slab_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_deepslate_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_deepslate_stairs_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_deepslate_stairs_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_deepslate_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_deepslate_wall_from_cobbled_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_deepslate_wall_from_polished_deepslate_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_diorite.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_diorite_from_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_diorite_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_diorite_slab_from_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_diorite_slab_from_polished_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_diorite_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_diorite_stairs_from_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_diorite_stairs_from_polished_diorite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_granite.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_granite_from_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_granite_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_granite_slab_from_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_granite_slab_from_polished_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_granite_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_granite_stairs_from_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_granite_stairs_from_polished_granite_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_tuff.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_tuff_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_tuff_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_tuff_slab_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_tuff_slab_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_tuff_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_tuff_stairs_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_tuff_stairs_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_tuff_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "polished_tuff_wall_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "polished_tuff_wall_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "popped_chorus_fruit.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "powered_rail.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "prismarine.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "prismarine_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "prismarine_brick_slab_from_prismarine_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "prismarine_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "prismarine_brick_stairs_from_prismarine_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "prismarine_bricks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "prismarine_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "prismarine_slab_from_prismarine_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "prismarine_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "prismarine_stairs_from_prismarine_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "prismarine_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "prismarine_wall_from_prismarine_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "pumpkin_pie.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "pumpkin_seeds.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "purple_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purple_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purple_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "purple_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "purple_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purple_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "purple_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "purple_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "purple_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purple_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "purple_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purple_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purple_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purple_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purpur_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purpur_pillar.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purpur_pillar_from_purpur_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "purpur_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purpur_slab_from_purpur_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "purpur_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "purpur_stairs_from_purpur_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "quartz.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "quartz_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "quartz_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "quartz_bricks_from_quartz_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "quartz_from_blasting.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "quartz_pillar.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "quartz_pillar_from_quartz_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "quartz_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "quartz_slab_from_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "quartz_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "quartz_stairs_from_quartz_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "rabbit_stew_from_brown_mushroom.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "rabbit_stew_from_red_mushroom.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "rail.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "raiser_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "raiser_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "raw_copper.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "raw_copper_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "raw_gold.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "raw_gold_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "raw_iron.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "raw_iron_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "recovery_compass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "red_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "red_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "red_dye_from_beetroot.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "red_dye_from_poppy.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "red_dye_from_rose_bush.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "red_dye_from_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "red_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "red_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_nether_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_nether_brick_slab_from_red_nether_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "red_nether_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_nether_brick_stairs_from_red_nether_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "red_nether_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_nether_brick_wall_from_red_nether_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "red_nether_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_sandstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_sandstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_sandstone_slab_from_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "red_sandstone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_sandstone_stairs_from_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "red_sandstone_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_sandstone_wall_from_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "red_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "red_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "red_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "redstone.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "redstone_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "redstone_from_blasting_deepslate_redstone_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "redstone_from_blasting_redstone_ore.json",
+    "type": "minecraft:blasting",
+    "included": false
+  },
+  {
+    "file": "redstone_from_smelting_deepslate_redstone_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "redstone_from_smelting_redstone_ore.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "redstone_lamp.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "redstone_torch.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "repair_item.json",
+    "type": "minecraft:crafting_special_repairitem",
+    "included": true
+  },
+  {
+    "file": "repeater.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "resin_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "resin_brick.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "resin_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "resin_brick_slab_from_resin_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "resin_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "resin_brick_stairs_from_resin_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "resin_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "resin_brick_wall_from_resin_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "resin_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "resin_clump.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "respawn_anchor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "rib_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "rib_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "saddle.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sandstone.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sandstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sandstone_slab_from_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "sandstone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sandstone_stairs_from_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "sandstone_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sandstone_wall_from_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "scaffolding.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sea_lantern.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sentry_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sentry_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "shaper_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "shaper_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "shears.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "shield.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "shield_decoration.json",
+    "type": "minecraft:crafting_special_shielddecoration",
+    "included": true
+  },
+  {
+    "file": "shulker_box.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "silence_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "silence_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "skull_banner_pattern.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "slime_ball.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "slime_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smithing_table.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smoker.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_basalt.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "smooth_quartz.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "smooth_quartz_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_quartz_slab_from_smooth_quartz_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "smooth_quartz_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_quartz_stairs_from_smooth_quartz_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "smooth_red_sandstone.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "smooth_red_sandstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "smooth_red_sandstone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "smooth_sandstone.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "smooth_sandstone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_sandstone_slab_from_smooth_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "smooth_sandstone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_sandstone_stairs_from_smooth_sandstone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "smooth_stone.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "smooth_stone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "smooth_stone_slab_from_smooth_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "snout_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "snout_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "snow.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "snow_block.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "soul_campfire.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "soul_lantern.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "soul_torch.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spectral_arrow.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spire_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spire_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "sponge.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "spruce_boat.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "spruce_chest_boat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "spruce_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "spruce_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spruce_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "spyglass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stick.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stick_from_bamboo_item.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sticky_piston.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "stone_axe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_brick_slab_from_stone_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_brick_slab_from_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_brick_stairs_from_stone_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_brick_stairs_from_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_brick_wall_from_stone_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_brick_walls_from_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_bricks_from_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "stone_hoe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_pickaxe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_shovel.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_slab_from_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_spear.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stone_stairs_from_stone_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "stone_sword.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stonecutter.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_acacia_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_birch_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_cherry_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_crimson_hyphae.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_dark_oak_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_jungle_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_mangrove_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_oak_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_pale_oak_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_spruce_wood.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "stripped_warped_hyphae.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "sugar_from_honey_bottle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "sugar_from_sugar_cane.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_allium.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_azure_bluet.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_blue_orchid.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_closed_eyeblossom.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_cornflower.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_dandelion.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_lily_of_the_valley.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_open_eyeblossom.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_orange_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_oxeye_daisy.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_pink_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_poppy.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_red_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_torchflower.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_white_tulip.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "suspicious_stew_from_wither_rose.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "target.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "tide_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tide_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "tinted_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tipped_arrow.json",
+    "type": "minecraft:crafting_special_tippedarrow",
+    "included": true
+  },
+  {
+    "file": "tnt.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tnt_minecart.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "torch.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "trapped_chest.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "tripwire_hook.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_brick_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_brick_slab_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_slab_from_tuff_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_slab_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_brick_stairs_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_stairs_from_tuff_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_stairs_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_brick_wall_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_wall_from_tuff_bricks_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_brick_wall_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_bricks.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_bricks_from_polished_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_bricks_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_slab_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_stairs_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "tuff_wall.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "tuff_wall_from_tuff_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "turtle_helmet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "vex_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "vex_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "ward_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "ward_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "warped_button.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "warped_door.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_fence.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_fence_gate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_fungus_on_a_stick.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_hanging_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_hyphae.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_planks.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "warped_pressure_plate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_shelf.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_sign.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "warped_trapdoor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_chiseled_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_chiseled_copper_from_waxed_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_chiseled_copper_from_waxed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_copper_bars_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_block_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_bulb_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_chain_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_chest_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_door_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_golem_statue_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_grate_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_grate_from_waxed_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_copper_lantern_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_copper_trapdoor_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_cut_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_cut_copper_from_waxed_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_cut_copper_slab_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_cut_copper_slab_from_waxed_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_cut_copper_stairs_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_chiseled_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_chiseled_copper_from_waxed_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_chiseled_copper_from_waxed_exposed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_copper_bars_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_bulb_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_chain_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_chest_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_door_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_golem_statue_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_grate_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_grate_from_waxed_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_copper_lantern_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_copper_trapdoor_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_cut_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_cut_copper_slab_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_cut_copper_stairs_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_exposed_lightning_rod_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_lightning_rod_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_chiseled_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_copper_bars_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_bulb_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_chain_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_chest_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_door_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_golem_statue_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_grate_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_copper_lantern_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_copper_trapdoor_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_slab_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_stairs_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_oxidized_lightning_rod_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_chiseled_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_chiseled_copper_from_waxed_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_chiseled_copper_from_waxed_weathered_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_copper_bars_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_bulb_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_chain_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_chest_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_door_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_golem_statue_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_grate_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_grate_from_waxed_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_copper_lantern_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_copper_trapdoor_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_cut_copper_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_cut_copper_slab_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_cut_copper_stairs_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "waxed_weathered_lightning_rod_from_honeycomb.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "wayfinder_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wayfinder_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "weathered_chiseled_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "weathered_chiseled_copper_from_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "weathered_chiseled_copper_from_weathered_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "weathered_copper_bulb.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "weathered_copper_grate.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "weathered_copper_grate_from_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "weathered_cut_copper.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "weathered_cut_copper_from_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "weathered_cut_copper_slab.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "weathered_cut_copper_slab_from_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "weathered_cut_copper_stairs.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "weathered_cut_copper_stairs_from_weathered_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting.json",
+    "type": "minecraft:stonecutting",
+    "included": false
+  },
+  {
+    "file": "wheat.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "white_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "white_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "white_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "white_dye.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "white_dye_from_lily_of_the_valley.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "white_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "white_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "white_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "white_wool_from_string.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wild_armor_trim_smithing_template.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wild_armor_trim_smithing_template_smithing_trim.json",
+    "type": "minecraft:smithing_trim",
+    "included": false
+  },
+  {
+    "file": "wind_charge.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "wolf_armor.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wooden_axe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wooden_hoe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wooden_pickaxe.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wooden_shovel.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wooden_spear.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "wooden_sword.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "writable_book.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "yellow_banner.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "yellow_bed.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "yellow_bundle.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "yellow_candle.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "yellow_carpet.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "yellow_concrete_powder.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "yellow_dye_from_dandelion.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "yellow_dye_from_sunflower.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "yellow_dye_from_wildflowers.json",
+    "type": "minecraft:crafting_shapeless",
+    "included": true
+  },
+  {
+    "file": "yellow_glazed_terracotta.json",
+    "type": "minecraft:smelting",
+    "included": false
+  },
+  {
+    "file": "yellow_harness.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "yellow_shulker_box.json",
+    "type": "minecraft:crafting_transmute",
+    "included": true
+  },
+  {
+    "file": "yellow_stained_glass.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "yellow_stained_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "yellow_stained_glass_pane_from_glass_pane.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  },
+  {
+    "file": "yellow_terracotta.json",
+    "type": "minecraft:crafting_shaped",
+    "included": true
+  }
+]

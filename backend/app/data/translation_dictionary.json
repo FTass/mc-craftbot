@@ -1,0 +1,5127 @@
+{
+  "#minecraft:acacia_logs": {
+    "es_es": "Troncos de acacia",
+    "es_latam": "Troncos de acacia",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:bamboo_blocks": {
+    "es_es": "Bloques de bambú",
+    "es_latam": "Bloques de bambú",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:birch_logs": {
+    "es_es": "Troncos de abedul",
+    "es_latam": "Troncos de abedul",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:bundles": {
+    "es_es": "Cualquier saco",
+    "es_latam": "Cualquier bolsa",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:cherry_logs": {
+    "es_es": "Troncos de cerezo",
+    "es_latam": "Troncos de cerezo",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:crimson_stems": {
+    "es_es": "Tallos carmesí",
+    "es_latam": "Tallos carmesí",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:dark_oak_logs": {
+    "es_es": "Troncos de roble oscuro",
+    "es_latam": "Troncos de roble oscuro",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:eggs": {
+    "es_es": "Cualquier huevo",
+    "es_latam": "Cualquier huevo",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:jungle_logs": {
+    "es_es": "Troncos de jungla",
+    "es_latam": "Troncos de jungla",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:mangrove_logs": {
+    "es_es": "Troncos de mangle",
+    "es_latam": "Troncos de mangle",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:oak_logs": {
+    "es_es": "Troncos de roble",
+    "es_latam": "Troncos de roble",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:pale_oak_logs": {
+    "es_es": "Troncos de roble pálido",
+    "es_latam": "Troncos de roble pálido",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:shulker_boxes": {
+    "es_es": "Cualquier caja de shulker",
+    "es_latam": "Cualquier caja de shulker",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:spruce_logs": {
+    "es_es": "Troncos de abeto",
+    "es_latam": "Troncos de abeto",
+    "method": "tag_dictionary"
+  },
+  "#minecraft:warped_stems": {
+    "es_es": "Tallos distorsionados",
+    "es_latam": "Tallos distorsionados",
+    "method": "tag_dictionary"
+  },
+  "minecraft:acacia_boat": {
+    "es_es": "Barca de acacia",
+    "es_latam": "Bote de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_button": {
+    "es_es": "Botón de acacia",
+    "es_latam": "Botón de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_chest_boat": {
+    "es_es": "Barca con cofre de acacia",
+    "es_latam": "Bote con cofre de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_door": {
+    "es_es": "Puerta de acacia",
+    "es_latam": "Puerta de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_fence": {
+    "es_es": "Valla de acacia",
+    "es_latam": "Valla de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_fence_gate": {
+    "es_es": "Puerta de valla de acacia",
+    "es_latam": "Puerta de valla de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_hanging_sign": {
+    "es_es": "Cartel colgante de acacia",
+    "es_latam": "Letrero colgante de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_planks": {
+    "es_es": "Tablones de acacia",
+    "es_latam": "Tablones de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_pressure_plate": {
+    "es_es": "Placa de presión de acacia",
+    "es_latam": "Placa de presión de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_shelf": {
+    "es_es": "Estante de acacia",
+    "es_latam": "Estante de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_sign": {
+    "es_es": "Cartel de acacia",
+    "es_latam": "Letrero de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_slab": {
+    "es_es": "Losa de acacia",
+    "es_latam": "Losa de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_stairs": {
+    "es_es": "Escaleras de acacia",
+    "es_latam": "Escaleras de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_trapdoor": {
+    "es_es": "Trampilla de acacia",
+    "es_latam": "Trampilla de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:acacia_wood": {
+    "es_es": "Madera de acacia",
+    "es_latam": "Madera de acacia",
+    "method": "wood_pattern"
+  },
+  "minecraft:activator_rail": {
+    "es_es": "Raíl activador",
+    "es_latam": "Riel activador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:allium": {
+    "es_es": "Allium",
+    "es_latam": "Allium",
+    "method": "exact_dictionary"
+  },
+  "minecraft:amethyst_block": {
+    "es_es": "Bloque de amatista",
+    "es_latam": "Bloque de amatista",
+    "method": "exact_dictionary"
+  },
+  "minecraft:andesite": {
+    "es_es": "Andesita",
+    "es_latam": "Andesita",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:andesite_slab": {
+    "es_es": "Losa de andesita",
+    "es_latam": "Losa de andesita",
+    "method": "block_form_pattern"
+  },
+  "minecraft:andesite_stairs": {
+    "es_es": "Escaleras de andesita",
+    "es_latam": "Escaleras de andesita",
+    "method": "block_form_pattern"
+  },
+  "minecraft:andesite_wall": {
+    "es_es": "Muro de andesita",
+    "es_latam": "Muro de andesita",
+    "method": "block_form_pattern"
+  },
+  "minecraft:anvil": {
+    "es_es": "Yunque",
+    "es_latam": "Yunque",
+    "method": "exact_dictionary"
+  },
+  "minecraft:armor_stand": {
+    "es_es": "Soporte para armadura",
+    "es_latam": "Soporte para armadura",
+    "method": "exact_dictionary"
+  },
+  "minecraft:arrow": {
+    "es_es": "Flecha",
+    "es_latam": "Flecha",
+    "method": "exact_dictionary"
+  },
+  "minecraft:azure_bluet": {
+    "es_es": "Houstonia azul",
+    "es_latam": "Houstonia azul",
+    "method": "exact_dictionary"
+  },
+  "minecraft:baked_potato": {
+    "es_es": "Patata asada",
+    "es_latam": "Papa horneada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bamboo": {
+    "es_es": "Bambú",
+    "es_latam": "Bambú",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bamboo_block": {
+    "es_es": "Bloque de bambú",
+    "es_latam": "Bloque de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_button": {
+    "es_es": "Botón de bambú",
+    "es_latam": "Botón de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_chest_raft": {
+    "es_es": "Balsa con cofre de bambú",
+    "es_latam": "Balsa con cofre de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_door": {
+    "es_es": "Puerta de bambú",
+    "es_latam": "Puerta de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_fence": {
+    "es_es": "Valla de bambú",
+    "es_latam": "Valla de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_fence_gate": {
+    "es_es": "Puerta de valla de bambú",
+    "es_latam": "Puerta de valla de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_hanging_sign": {
+    "es_es": "Cartel colgante de bambú",
+    "es_latam": "Letrero colgante de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_mosaic": {
+    "es_es": "Mosaico de bambú",
+    "es_latam": "Mosaico de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_mosaic_slab": {
+    "es_es": "Losa de mosaico de bambú",
+    "es_latam": "Losa de mosaico de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_mosaic_stairs": {
+    "es_es": "Escaleras de mosaico de bambú",
+    "es_latam": "Escaleras de mosaico de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_planks": {
+    "es_es": "Tablones de bambú",
+    "es_latam": "Tablones de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_pressure_plate": {
+    "es_es": "Placa de presión de bambú",
+    "es_latam": "Placa de presión de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_raft": {
+    "es_es": "Balsa de bambú",
+    "es_latam": "Balsa de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_shelf": {
+    "es_es": "Estante de bambú",
+    "es_latam": "Estante de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_sign": {
+    "es_es": "Cartel de bambú",
+    "es_latam": "Letrero de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_slab": {
+    "es_es": "Losa de bambú",
+    "es_latam": "Losa de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_stairs": {
+    "es_es": "Escaleras de bambú",
+    "es_latam": "Escaleras de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:bamboo_trapdoor": {
+    "es_es": "Trampilla de bambú",
+    "es_latam": "Trampilla de bambú",
+    "method": "wood_pattern"
+  },
+  "minecraft:barrel": {
+    "es_es": "Barril",
+    "es_latam": "Barril",
+    "method": "exact_dictionary"
+  },
+  "minecraft:beacon": {
+    "es_es": "Faro",
+    "es_latam": "Faro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:beehive": {
+    "es_es": "Colmena",
+    "es_latam": "Colmena",
+    "method": "exact_dictionary"
+  },
+  "minecraft:beetroot": {
+    "es_es": "Remolacha",
+    "es_latam": "Betabel",
+    "method": "exact_dictionary"
+  },
+  "minecraft:beetroot_soup": {
+    "es_es": "Sopa de remolacha",
+    "es_latam": "Sopa de betabel",
+    "method": "exact_dictionary"
+  },
+  "minecraft:birch_boat": {
+    "es_es": "Barca de abedul",
+    "es_latam": "Bote de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_button": {
+    "es_es": "Botón de abedul",
+    "es_latam": "Botón de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_chest_boat": {
+    "es_es": "Barca con cofre de abedul",
+    "es_latam": "Bote con cofre de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_door": {
+    "es_es": "Puerta de abedul",
+    "es_latam": "Puerta de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_fence": {
+    "es_es": "Valla de abedul",
+    "es_latam": "Valla de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_fence_gate": {
+    "es_es": "Puerta de valla de abedul",
+    "es_latam": "Puerta de valla de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_hanging_sign": {
+    "es_es": "Cartel colgante de abedul",
+    "es_latam": "Letrero colgante de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_planks": {
+    "es_es": "Tablones de abedul",
+    "es_latam": "Tablones de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_pressure_plate": {
+    "es_es": "Placa de presión de abedul",
+    "es_latam": "Placa de presión de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_shelf": {
+    "es_es": "Estante de abedul",
+    "es_latam": "Estante de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_sign": {
+    "es_es": "Cartel de abedul",
+    "es_latam": "Letrero de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_slab": {
+    "es_es": "Losa de abedul",
+    "es_latam": "Losa de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_stairs": {
+    "es_es": "Escaleras de abedul",
+    "es_latam": "Escaleras de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_trapdoor": {
+    "es_es": "Trampilla de abedul",
+    "es_latam": "Trampilla de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:birch_wood": {
+    "es_es": "Madera de abedul",
+    "es_latam": "Madera de abedul",
+    "method": "wood_pattern"
+  },
+  "minecraft:black_banner": {
+    "es_es": "Estandarte negro",
+    "es_latam": "Estandarte negro",
+    "method": "color_pattern"
+  },
+  "minecraft:black_bed": {
+    "es_es": "Cama negra",
+    "es_latam": "Cama negra",
+    "method": "color_pattern"
+  },
+  "minecraft:black_bundle": {
+    "es_es": "Saco negro",
+    "es_latam": "Bolsa negra",
+    "method": "color_pattern"
+  },
+  "minecraft:black_candle": {
+    "es_es": "Vela negra",
+    "es_latam": "Vela negra",
+    "method": "color_pattern"
+  },
+  "minecraft:black_carpet": {
+    "es_es": "Alfombra negra",
+    "es_latam": "Alfombra negra",
+    "method": "color_pattern"
+  },
+  "minecraft:black_concrete_powder": {
+    "es_es": "Cemento negro",
+    "es_latam": "Polvo de concreto negro",
+    "method": "color_pattern"
+  },
+  "minecraft:black_dye": {
+    "es_es": "Tinte negro",
+    "es_latam": "Tinte negro",
+    "method": "color_pattern"
+  },
+  "minecraft:black_harness": {
+    "es_es": "Arnés negro",
+    "es_latam": "Arnés negro",
+    "method": "color_pattern"
+  },
+  "minecraft:black_shulker_box": {
+    "es_es": "Caja de shulker negra",
+    "es_latam": "Caja de shulker negra",
+    "method": "color_pattern"
+  },
+  "minecraft:black_stained_glass": {
+    "es_es": "Cristal tintado de negro",
+    "es_latam": "Vidrio tintado de negro",
+    "method": "color_pattern"
+  },
+  "minecraft:black_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de negro",
+    "es_latam": "Panel de vidrio tintado de negro",
+    "method": "color_pattern"
+  },
+  "minecraft:black_terracotta": {
+    "es_es": "Terracota negra",
+    "es_latam": "Terracota negra",
+    "method": "color_pattern"
+  },
+  "minecraft:black_wool": {
+    "es_es": "Lana negra",
+    "es_latam": "Lana negra",
+    "method": "color_pattern"
+  },
+  "minecraft:blackstone_slab": {
+    "es_es": "Losa de piedra negra",
+    "es_latam": "Losa de piedra negra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:blackstone_stairs": {
+    "es_es": "Escaleras de piedra negra",
+    "es_latam": "Escaleras de piedra negra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:blackstone_wall": {
+    "es_es": "Muro de piedra negra",
+    "es_latam": "Muro de piedra negra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:blast_furnace": {
+    "es_es": "Alto horno",
+    "es_latam": "Alto horno",
+    "method": "exact_dictionary"
+  },
+  "minecraft:blaze_powder": {
+    "es_es": "Polvo de blaze",
+    "es_latam": "Polvo de blaze",
+    "method": "exact_dictionary"
+  },
+  "minecraft:blaze_rod": {
+    "es_es": "Vara de blaze",
+    "es_latam": "Vara de blaze",
+    "method": "exact_dictionary"
+  },
+  "minecraft:blue_banner": {
+    "es_es": "Estandarte azul",
+    "es_latam": "Estandarte azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_bed": {
+    "es_es": "Cama azul",
+    "es_latam": "Cama azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_bundle": {
+    "es_es": "Saco azul",
+    "es_latam": "Bolsa azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_candle": {
+    "es_es": "Vela azul",
+    "es_latam": "Vela azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_carpet": {
+    "es_es": "Alfombra azul",
+    "es_latam": "Alfombra azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_concrete_powder": {
+    "es_es": "Cemento azul",
+    "es_latam": "Polvo de concreto azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_dye": {
+    "es_es": "Tinte azul",
+    "es_latam": "Tinte azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_harness": {
+    "es_es": "Arnés azul",
+    "es_latam": "Arnés azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_ice": {
+    "es_es": "Hielo azul",
+    "es_latam": "Hielo azul",
+    "method": "exact_dictionary"
+  },
+  "minecraft:blue_orchid": {
+    "es_es": "Orquídea azul",
+    "es_latam": "Orquídea azul",
+    "method": "exact_dictionary"
+  },
+  "minecraft:blue_shulker_box": {
+    "es_es": "Caja de shulker azul",
+    "es_latam": "Caja de shulker azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_stained_glass": {
+    "es_es": "Cristal tintado de azul",
+    "es_latam": "Vidrio tintado de azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de azul",
+    "es_latam": "Panel de vidrio tintado de azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_terracotta": {
+    "es_es": "Terracota azul",
+    "es_latam": "Terracota azul",
+    "method": "color_pattern"
+  },
+  "minecraft:blue_wool": {
+    "es_es": "Lana azul",
+    "es_latam": "Lana azul",
+    "method": "color_pattern"
+  },
+  "minecraft:bolt_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura bolt",
+    "es_latam": "Plantilla de herrería: adorno de armadura bolt",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:bone": {
+    "es_es": "Hueso",
+    "es_latam": "Hueso",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bone_block": {
+    "es_es": "Bloque de hueso",
+    "es_latam": "Bloque de hueso",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bone_meal": {
+    "es_es": "Polvo de hueso",
+    "es_latam": "Polvo de hueso",
+    "method": "exact_dictionary"
+  },
+  "minecraft:book": {
+    "es_es": "Libro",
+    "es_latam": "Libro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bookshelf": {
+    "es_es": "Librería",
+    "es_latam": "Estantería",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bordure_indented_banner_pattern": {
+    "es_es": "Diseño de estandarte: bordura dentada",
+    "es_latam": "Patrón de estandarte: bordura dentada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bow": {
+    "es_es": "Arco",
+    "es_latam": "Arco",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bowl": {
+    "es_es": "Cuenco",
+    "es_latam": "Tazón",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bread": {
+    "es_es": "Pan",
+    "es_latam": "Pan",
+    "method": "exact_dictionary"
+  },
+  "minecraft:breeze_rod": {
+    "es_es": "Vara de brisa",
+    "es_latam": "Vara de brisa",
+    "method": "exact_dictionary"
+  },
+  "minecraft:brewing_stand": {
+    "es_es": "Soporte para pociones",
+    "es_latam": "Soporte para pociones",
+    "method": "exact_dictionary"
+  },
+  "minecraft:brick_slab": {
+    "es_es": "Losa de ladrillo",
+    "es_latam": "Losa de ladrillo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:brick_stairs": {
+    "es_es": "Escaleras de ladrillo",
+    "es_latam": "Escaleras de ladrillo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:brick_wall": {
+    "es_es": "Muro de ladrillo",
+    "es_latam": "Muro de ladrillo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:bricks": {
+    "es_es": "Ladrillos",
+    "es_latam": "Ladrillos",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:brown_banner": {
+    "es_es": "Estandarte marrón",
+    "es_latam": "Estandarte café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_bed": {
+    "es_es": "Cama marrón",
+    "es_latam": "Cama café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_bundle": {
+    "es_es": "Saco marrón",
+    "es_latam": "Bolsa café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_candle": {
+    "es_es": "Vela marrón",
+    "es_latam": "Vela café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_carpet": {
+    "es_es": "Alfombra marrón",
+    "es_latam": "Alfombra café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_concrete_powder": {
+    "es_es": "Cemento marrón",
+    "es_latam": "Polvo de concreto café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_dye": {
+    "es_es": "Tinte marrón",
+    "es_latam": "Tinte café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_harness": {
+    "es_es": "Arnés marrón",
+    "es_latam": "Arnés café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_mushroom": {
+    "es_es": "Champiñón marrón",
+    "es_latam": "Hongo café",
+    "method": "exact_dictionary"
+  },
+  "minecraft:brown_shulker_box": {
+    "es_es": "Caja de shulker marrón",
+    "es_latam": "Caja de shulker café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_stained_glass": {
+    "es_es": "Cristal tintado de marrón",
+    "es_latam": "Vidrio tintado de café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de marrón",
+    "es_latam": "Panel de vidrio tintado de café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_terracotta": {
+    "es_es": "Terracota marrón",
+    "es_latam": "Terracota café",
+    "method": "color_pattern"
+  },
+  "minecraft:brown_wool": {
+    "es_es": "Lana marrón",
+    "es_latam": "Lana café",
+    "method": "color_pattern"
+  },
+  "minecraft:brush": {
+    "es_es": "Pincel",
+    "es_latam": "Cepillo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bucket": {
+    "es_es": "Cubo",
+    "es_latam": "Cubeta",
+    "method": "exact_dictionary"
+  },
+  "minecraft:bundle": {
+    "es_es": "Saco",
+    "es_latam": "Bolsa",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cactus_flower": {
+    "es_es": "Flor de cactus",
+    "es_latam": "Flor de cactus",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cake": {
+    "es_es": "Tarta",
+    "es_latam": "Pastel",
+    "method": "exact_dictionary"
+  },
+  "minecraft:calibrated_sculk_sensor": {
+    "es_es": "Sensor de sculk calibrado",
+    "es_latam": "Sensor de sculk calibrado",
+    "method": "exact_dictionary"
+  },
+  "minecraft:campfire": {
+    "es_es": "Hoguera",
+    "es_latam": "Fogata",
+    "method": "exact_dictionary"
+  },
+  "minecraft:candle": {
+    "es_es": "Vela",
+    "es_latam": "Vela",
+    "method": "exact_dictionary"
+  },
+  "minecraft:carrot": {
+    "es_es": "Zanahoria",
+    "es_latam": "Zanahoria",
+    "method": "exact_dictionary"
+  },
+  "minecraft:carrot_on_a_stick": {
+    "es_es": "Caña con zanahoria",
+    "es_latam": "Caña con zanahoria",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cartography_table": {
+    "es_es": "Mesa de cartografía",
+    "es_latam": "Mesa de cartografía",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cauldron": {
+    "es_es": "Caldero",
+    "es_latam": "Caldero",
+    "method": "exact_dictionary"
+  },
+  "minecraft:charcoal": {
+    "es_es": "Carbón vegetal",
+    "es_latam": "Carbón vegetal",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cherry_boat": {
+    "es_es": "Barca de cerezo",
+    "es_latam": "Bote de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_button": {
+    "es_es": "Botón de cerezo",
+    "es_latam": "Botón de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_chest_boat": {
+    "es_es": "Barca con cofre de cerezo",
+    "es_latam": "Bote con cofre de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_door": {
+    "es_es": "Puerta de cerezo",
+    "es_latam": "Puerta de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_fence": {
+    "es_es": "Valla de cerezo",
+    "es_latam": "Valla de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_fence_gate": {
+    "es_es": "Puerta de valla de cerezo",
+    "es_latam": "Puerta de valla de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_hanging_sign": {
+    "es_es": "Cartel colgante de cerezo",
+    "es_latam": "Letrero colgante de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_planks": {
+    "es_es": "Tablones de cerezo",
+    "es_latam": "Tablones de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_pressure_plate": {
+    "es_es": "Placa de presión de cerezo",
+    "es_latam": "Placa de presión de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_shelf": {
+    "es_es": "Estante de cerezo",
+    "es_latam": "Estante de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_sign": {
+    "es_es": "Cartel de cerezo",
+    "es_latam": "Letrero de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_slab": {
+    "es_es": "Losa de cerezo",
+    "es_latam": "Losa de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_stairs": {
+    "es_es": "Escaleras de cerezo",
+    "es_latam": "Escaleras de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_trapdoor": {
+    "es_es": "Trampilla de cerezo",
+    "es_latam": "Trampilla de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:cherry_wood": {
+    "es_es": "Madera de cerezo",
+    "es_latam": "Madera de cerezo",
+    "method": "wood_pattern"
+  },
+  "minecraft:chest": {
+    "es_es": "Cofre",
+    "es_latam": "Cofre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chest_minecart": {
+    "es_es": "Vagoneta con cofre",
+    "es_latam": "Vagoneta con cofre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_bookshelf": {
+    "es_es": "Librería cincelada",
+    "es_latam": "Estantería cincelada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_copper": {
+    "es_es": "Cobre cincelado",
+    "es_latam": "Cobre cincelado",
+    "method": "copper_pattern"
+  },
+  "minecraft:chiseled_deepslate": {
+    "es_es": "Pizarra profunda cincelada",
+    "es_latam": "Pizarra profunda cincelada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_nether_bricks": {
+    "es_es": "Ladrillos del Nether cincelados",
+    "es_latam": "Ladrillos del Nether cincelados",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_polished_blackstone": {
+    "es_es": "Piedra negra pulida cincelada",
+    "es_latam": "Piedra negra pulida cincelada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_quartz_block": {
+    "es_es": "Bloque de cuarzo cincelado",
+    "es_latam": "Bloque de cuarzo cincelado",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_red_sandstone": {
+    "es_es": "Arenisca roja cincelada",
+    "es_latam": "Arenisca roja cincelada",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:chiseled_resin_bricks": {
+    "es_es": "Ladrillos de resina cincelados",
+    "es_latam": "Ladrillos de resina cincelados",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_sandstone": {
+    "es_es": "Arenisca cincelada",
+    "es_latam": "Arenisca cincelada",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:chiseled_stone_bricks": {
+    "es_es": "Ladrillos de piedra cincelados",
+    "es_latam": "Ladrillos de piedra cincelados",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:chiseled_tuff": {
+    "es_es": "Toba cincelada",
+    "es_latam": "Toba cincelada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:chiseled_tuff_bricks": {
+    "es_es": "Ladrillos de toba cincelados",
+    "es_latam": "Ladrillos de toba cincelados",
+    "method": "exact_dictionary"
+  },
+  "minecraft:clay": {
+    "es_es": "Arcilla",
+    "es_latam": "Arcilla",
+    "method": "exact_dictionary"
+  },
+  "minecraft:clock": {
+    "es_es": "Reloj",
+    "es_latam": "Reloj",
+    "method": "exact_dictionary"
+  },
+  "minecraft:closed_eyeblossom": {
+    "es_es": "Flor ocular cerrada",
+    "es_latam": "Flor ocular cerrada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:coal": {
+    "es_es": "Carbón",
+    "es_latam": "Carbón",
+    "method": "exact_dictionary"
+  },
+  "minecraft:coal_block": {
+    "es_es": "Bloque de carbón",
+    "es_latam": "Bloque de carbón",
+    "method": "exact_dictionary"
+  },
+  "minecraft:coarse_dirt": {
+    "es_es": "Tierra estéril",
+    "es_latam": "Tierra estéril",
+    "method": "exact_dictionary"
+  },
+  "minecraft:coast_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura coast",
+    "es_latam": "Plantilla de herrería: adorno de armadura coast",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:cobbled_deepslate_slab": {
+    "es_es": "Losa de pizarra profunda rocosa",
+    "es_latam": "Losa de pizarra profunda rocosa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cobbled_deepslate_stairs": {
+    "es_es": "Escaleras de pizarra profunda rocosa",
+    "es_latam": "Escaleras de pizarra profunda rocosa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cobbled_deepslate_wall": {
+    "es_es": "Muro de pizarra profunda rocosa",
+    "es_latam": "Muro de pizarra profunda rocosa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cobblestone": {
+    "es_es": "Adoquín",
+    "es_latam": "Roca",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:cobblestone_slab": {
+    "es_es": "Losa de adoquín",
+    "es_latam": "Losa de roca",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cobblestone_stairs": {
+    "es_es": "Escaleras de adoquín",
+    "es_latam": "Escaleras de roca",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cobblestone_wall": {
+    "es_es": "Muro de adoquín",
+    "es_latam": "Muro de roca",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cocoa_beans": {
+    "es_es": "Granos de cacao",
+    "es_latam": "Granos de cacao",
+    "method": "exact_dictionary"
+  },
+  "minecraft:comparator": {
+    "es_es": "Comparador de redstone",
+    "es_latam": "Comparador de redstone",
+    "method": "exact_dictionary"
+  },
+  "minecraft:compass": {
+    "es_es": "Brújula",
+    "es_latam": "Brújula",
+    "method": "exact_dictionary"
+  },
+  "minecraft:composter": {
+    "es_es": "Compostador",
+    "es_latam": "Compostador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:conduit": {
+    "es_es": "Canalizador",
+    "es_latam": "Canalizador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cooked_rabbit": {
+    "es_es": "Conejo cocinado",
+    "es_latam": "Conejo cocinado",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cookie": {
+    "es_es": "Galleta",
+    "es_latam": "Galleta",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_axe": {
+    "es_es": "Hacha de cobre",
+    "es_latam": "Hacha de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_bars": {
+    "es_es": "Barrotes de cobre",
+    "es_latam": "Barrotes de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_block": {
+    "es_es": "Bloque de cobre",
+    "es_latam": "Bloque de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_boots": {
+    "es_es": "Botas de cobre",
+    "es_latam": "Botas de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_bulb": {
+    "es_es": "Bombilla de cobre",
+    "es_latam": "Bombilla de cobre",
+    "method": "copper_pattern"
+  },
+  "minecraft:copper_chain": {
+    "es_es": "Cadena de cobre",
+    "es_latam": "Cadena de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_chest": {
+    "es_es": "Cofre de cobre",
+    "es_latam": "Cofre de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_chestplate": {
+    "es_es": "Peto de cobre",
+    "es_latam": "Pechera de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_door": {
+    "es_es": "Puerta de cobre",
+    "es_latam": "Puerta de cobre",
+    "method": "copper_pattern"
+  },
+  "minecraft:copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre",
+    "es_latam": "Estatua de gólem de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_grate": {
+    "es_es": "Rejilla de cobre",
+    "es_latam": "Rejilla de cobre",
+    "method": "copper_pattern"
+  },
+  "minecraft:copper_helmet": {
+    "es_es": "Casco de cobre",
+    "es_latam": "Casco de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_hoe": {
+    "es_es": "Azada de cobre",
+    "es_latam": "Azada de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_ingot": {
+    "es_es": "Lingote de cobre",
+    "es_latam": "Lingote de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_lantern": {
+    "es_es": "Farolillo de cobre",
+    "es_latam": "Farol de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_leggings": {
+    "es_es": "Grebas de cobre",
+    "es_latam": "Grebas de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_nugget": {
+    "es_es": "Pepita de cobre",
+    "es_latam": "Pepita de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_pickaxe": {
+    "es_es": "Pico de cobre",
+    "es_latam": "Pico de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_shovel": {
+    "es_es": "Pala de cobre",
+    "es_latam": "Pala de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_spear": {
+    "es_es": "Lanza de cobre",
+    "es_latam": "Lanza de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_sword": {
+    "es_es": "Espada de cobre",
+    "es_latam": "Espada de cobre",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:copper_torch": {
+    "es_es": "Antorcha de cobre",
+    "es_latam": "Antorcha de cobre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:copper_trapdoor": {
+    "es_es": "Trampilla de cobre",
+    "es_latam": "Trampilla de cobre",
+    "method": "copper_pattern"
+  },
+  "minecraft:cornflower": {
+    "es_es": "Aciano",
+    "es_latam": "Aciano",
+    "method": "exact_dictionary"
+  },
+  "minecraft:crafter": {
+    "es_es": "Fabricador",
+    "es_latam": "Crafteador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:crafting_table": {
+    "es_es": "Mesa de trabajo",
+    "es_latam": "Mesa de trabajo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:creaking_heart": {
+    "es_es": "Corazón del crujidor",
+    "es_latam": "Corazón del crujidor",
+    "method": "exact_dictionary"
+  },
+  "minecraft:creeper_banner_pattern": {
+    "es_es": "Diseño de estandarte: creeper",
+    "es_latam": "Patrón de estandarte: creeper",
+    "method": "exact_dictionary"
+  },
+  "minecraft:creeper_head": {
+    "es_es": "Cabeza de creeper",
+    "es_latam": "Cabeza de creeper",
+    "method": "exact_dictionary"
+  },
+  "minecraft:crimson_button": {
+    "es_es": "Botón de carmesí",
+    "es_latam": "Botón de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_door": {
+    "es_es": "Puerta de carmesí",
+    "es_latam": "Puerta de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_fence": {
+    "es_es": "Valla de carmesí",
+    "es_latam": "Valla de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_fence_gate": {
+    "es_es": "Puerta de valla de carmesí",
+    "es_latam": "Puerta de valla de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_hanging_sign": {
+    "es_es": "Cartel colgante de carmesí",
+    "es_latam": "Letrero colgante de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_hyphae": {
+    "es_es": "Hifas carmesí",
+    "es_latam": "Hifas carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_planks": {
+    "es_es": "Tablones de carmesí",
+    "es_latam": "Tablones de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_pressure_plate": {
+    "es_es": "Placa de presión de carmesí",
+    "es_latam": "Placa de presión de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_shelf": {
+    "es_es": "Estante de carmesí",
+    "es_latam": "Estante de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_sign": {
+    "es_es": "Cartel de carmesí",
+    "es_latam": "Letrero de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_slab": {
+    "es_es": "Losa de carmesí",
+    "es_latam": "Losa de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_stairs": {
+    "es_es": "Escaleras de carmesí",
+    "es_latam": "Escaleras de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crimson_trapdoor": {
+    "es_es": "Trampilla de carmesí",
+    "es_latam": "Trampilla de carmesí",
+    "method": "wood_pattern"
+  },
+  "minecraft:crossbow": {
+    "es_es": "Ballesta",
+    "es_latam": "Ballesta",
+    "method": "exact_dictionary"
+  },
+  "minecraft:cut_copper": {
+    "es_es": "Cobre cortado",
+    "es_latam": "Cobre cortado",
+    "method": "copper_pattern"
+  },
+  "minecraft:cut_copper_slab": {
+    "es_es": "Losa de cobre cortado",
+    "es_latam": "Losa de cobre cortado",
+    "method": "copper_pattern"
+  },
+  "minecraft:cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado",
+    "es_latam": "Escaleras de cobre cortado",
+    "method": "copper_pattern"
+  },
+  "minecraft:cut_red_sandstone": {
+    "es_es": "Arenisca roja cortada",
+    "es_latam": "Arenisca roja cortada",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:cut_red_sandstone_slab": {
+    "es_es": "Losa de arenisca roja cortada",
+    "es_latam": "Losa de arenisca roja cortada",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cut_sandstone": {
+    "es_es": "Arenisca cortada",
+    "es_latam": "Arenisca cortada",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:cut_sandstone_slab": {
+    "es_es": "Losa de arenisca cortada",
+    "es_latam": "Losa de arenisca cortada",
+    "method": "block_form_pattern"
+  },
+  "minecraft:cyan_banner": {
+    "es_es": "Estandarte cian",
+    "es_latam": "Estandarte cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_bed": {
+    "es_es": "Cama cian",
+    "es_latam": "Cama cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_bundle": {
+    "es_es": "Saco cian",
+    "es_latam": "Bolsa cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_candle": {
+    "es_es": "Vela cian",
+    "es_latam": "Vela cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_carpet": {
+    "es_es": "Alfombra cian",
+    "es_latam": "Alfombra cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_concrete_powder": {
+    "es_es": "Cemento cian",
+    "es_latam": "Polvo de concreto cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_dye": {
+    "es_es": "Tinte cian",
+    "es_latam": "Tinte cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_harness": {
+    "es_es": "Arnés cian",
+    "es_latam": "Arnés cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_shulker_box": {
+    "es_es": "Caja de shulker cian",
+    "es_latam": "Caja de shulker cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_stained_glass": {
+    "es_es": "Cristal tintado de cian",
+    "es_latam": "Vidrio tintado de cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de cian",
+    "es_latam": "Panel de vidrio tintado de cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_terracotta": {
+    "es_es": "Terracota cian",
+    "es_latam": "Terracota cian",
+    "method": "color_pattern"
+  },
+  "minecraft:cyan_wool": {
+    "es_es": "Lana cian",
+    "es_latam": "Lana cian",
+    "method": "color_pattern"
+  },
+  "minecraft:dandelion": {
+    "es_es": "Diente de león",
+    "es_latam": "Diente de león",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dark_oak_boat": {
+    "es_es": "Barca de roble oscuro",
+    "es_latam": "Bote de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_button": {
+    "es_es": "Botón de roble oscuro",
+    "es_latam": "Botón de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_chest_boat": {
+    "es_es": "Barca con cofre de roble oscuro",
+    "es_latam": "Bote con cofre de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_door": {
+    "es_es": "Puerta de roble oscuro",
+    "es_latam": "Puerta de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_fence": {
+    "es_es": "Valla de roble oscuro",
+    "es_latam": "Valla de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_fence_gate": {
+    "es_es": "Puerta de valla de roble oscuro",
+    "es_latam": "Puerta de valla de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_hanging_sign": {
+    "es_es": "Cartel colgante de roble oscuro",
+    "es_latam": "Letrero colgante de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_planks": {
+    "es_es": "Tablones de roble oscuro",
+    "es_latam": "Tablones de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_pressure_plate": {
+    "es_es": "Placa de presión de roble oscuro",
+    "es_latam": "Placa de presión de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_shelf": {
+    "es_es": "Estante de roble oscuro",
+    "es_latam": "Estante de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_sign": {
+    "es_es": "Cartel de roble oscuro",
+    "es_latam": "Letrero de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_slab": {
+    "es_es": "Losa de roble oscuro",
+    "es_latam": "Losa de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_stairs": {
+    "es_es": "Escaleras de roble oscuro",
+    "es_latam": "Escaleras de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_trapdoor": {
+    "es_es": "Trampilla de roble oscuro",
+    "es_latam": "Trampilla de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_oak_wood": {
+    "es_es": "Madera de roble oscuro",
+    "es_latam": "Madera de roble oscuro",
+    "method": "wood_pattern"
+  },
+  "minecraft:dark_prismarine": {
+    "es_es": "Prismarina oscura",
+    "es_latam": "Prismarina oscura",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:dark_prismarine_slab": {
+    "es_es": "Losa de prismarina oscura",
+    "es_latam": "Losa de prismarina oscura",
+    "method": "block_form_pattern"
+  },
+  "minecraft:dark_prismarine_stairs": {
+    "es_es": "Escaleras de prismarina oscura",
+    "es_latam": "Escaleras de prismarina oscura",
+    "method": "block_form_pattern"
+  },
+  "minecraft:daylight_detector": {
+    "es_es": "Detector de luz solar",
+    "es_latam": "Sensor de luz solar",
+    "method": "exact_dictionary"
+  },
+  "minecraft:decorated_pot": {
+    "es_es": "Crafteo especial de vasija decorada",
+    "es_latam": "Crafteo especial de vasija decorada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:deepslate_brick_slab": {
+    "es_es": "Losa de ladrillos de pizarra profunda",
+    "es_latam": "Losa de ladrillos de pizarra profunda",
+    "method": "block_form_pattern"
+  },
+  "minecraft:deepslate_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de pizarra profunda",
+    "es_latam": "Escaleras de ladrillos de pizarra profunda",
+    "method": "block_form_pattern"
+  },
+  "minecraft:deepslate_brick_wall": {
+    "es_es": "Muro de ladrillos de pizarra profunda",
+    "es_latam": "Muro de ladrillos de pizarra profunda",
+    "method": "block_form_pattern"
+  },
+  "minecraft:deepslate_bricks": {
+    "es_es": "Ladrillos de pizarra profunda",
+    "es_latam": "Ladrillos de pizarra profunda",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:deepslate_tile_slab": {
+    "es_es": "Losa de baldosas de pizarra profunda",
+    "es_latam": "Losa de baldosas de pizarra profunda",
+    "method": "block_form_pattern"
+  },
+  "minecraft:deepslate_tile_stairs": {
+    "es_es": "Escaleras de baldosas de pizarra profunda",
+    "es_latam": "Escaleras de baldosas de pizarra profunda",
+    "method": "block_form_pattern"
+  },
+  "minecraft:deepslate_tile_wall": {
+    "es_es": "Muro de baldosas de pizarra profunda",
+    "es_latam": "Muro de baldosas de pizarra profunda",
+    "method": "block_form_pattern"
+  },
+  "minecraft:deepslate_tiles": {
+    "es_es": "Baldosas de pizarra profunda",
+    "es_latam": "Baldosas de pizarra profunda",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:detector_rail": {
+    "es_es": "Raíl detector",
+    "es_latam": "Riel detector",
+    "method": "exact_dictionary"
+  },
+  "minecraft:diamond": {
+    "es_es": "Diamante",
+    "es_latam": "Diamante",
+    "method": "exact_dictionary"
+  },
+  "minecraft:diamond_axe": {
+    "es_es": "Hacha de diamante",
+    "es_latam": "Hacha de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_block": {
+    "es_es": "Bloque de diamante",
+    "es_latam": "Bloque de diamante",
+    "method": "exact_dictionary"
+  },
+  "minecraft:diamond_boots": {
+    "es_es": "Botas de diamante",
+    "es_latam": "Botas de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_chestplate": {
+    "es_es": "Peto de diamante",
+    "es_latam": "Pechera de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_helmet": {
+    "es_es": "Casco de diamante",
+    "es_latam": "Casco de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_hoe": {
+    "es_es": "Azada de diamante",
+    "es_latam": "Azada de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_leggings": {
+    "es_es": "Grebas de diamante",
+    "es_latam": "Grebas de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_pickaxe": {
+    "es_es": "Pico de diamante",
+    "es_latam": "Pico de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_shovel": {
+    "es_es": "Pala de diamante",
+    "es_latam": "Pala de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diamond_spear": {
+    "es_es": "Lanza de diamante",
+    "es_latam": "Lanza de diamante",
+    "method": "exact_dictionary"
+  },
+  "minecraft:diamond_sword": {
+    "es_es": "Espada de diamante",
+    "es_latam": "Espada de diamante",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:diorite": {
+    "es_es": "Diorita",
+    "es_latam": "Diorita",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:diorite_slab": {
+    "es_es": "Losa de diorita",
+    "es_latam": "Losa de diorita",
+    "method": "block_form_pattern"
+  },
+  "minecraft:diorite_stairs": {
+    "es_es": "Escaleras de diorita",
+    "es_latam": "Escaleras de diorita",
+    "method": "block_form_pattern"
+  },
+  "minecraft:diorite_wall": {
+    "es_es": "Muro de diorita",
+    "es_latam": "Muro de diorita",
+    "method": "block_form_pattern"
+  },
+  "minecraft:disc_fragment_5": {
+    "es_es": "Fragmento de disco",
+    "es_latam": "Fragmento de disco",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dispenser": {
+    "es_es": "Dispensador",
+    "es_latam": "Dispensador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dried_ghast": {
+    "es_es": "Ghast seco",
+    "es_latam": "Ghast seco",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dried_kelp": {
+    "es_es": "Alga seca",
+    "es_latam": "Alga seca",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dried_kelp_block": {
+    "es_es": "Bloque de algas secas",
+    "es_latam": "Bloque de algas secas",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dripstone_block": {
+    "es_es": "Bloque de espeleotema",
+    "es_latam": "Bloque de espeleotema",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dropper": {
+    "es_es": "Soltador",
+    "es_latam": "Soltador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:dune_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura dune",
+    "es_latam": "Plantilla de herrería: adorno de armadura dune",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:emerald": {
+    "es_es": "Esmeralda",
+    "es_latam": "Esmeralda",
+    "method": "exact_dictionary"
+  },
+  "minecraft:emerald_block": {
+    "es_es": "Bloque de esmeralda",
+    "es_latam": "Bloque de esmeralda",
+    "method": "exact_dictionary"
+  },
+  "minecraft:enchanted_golden_apple": {
+    "es_es": "Manzana dorada encantada",
+    "es_latam": "Manzana dorada encantada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:enchanting_table": {
+    "es_es": "Mesa de encantamientos",
+    "es_latam": "Mesa de encantamientos",
+    "method": "exact_dictionary"
+  },
+  "minecraft:end_crystal": {
+    "es_es": "Cristal del End",
+    "es_latam": "Cristal del End",
+    "method": "exact_dictionary"
+  },
+  "minecraft:end_rod": {
+    "es_es": "Vara del End",
+    "es_latam": "Vara del End",
+    "method": "exact_dictionary"
+  },
+  "minecraft:end_stone_brick_slab": {
+    "es_es": "Losa de ladrillos de piedra del end",
+    "es_latam": "Losa de ladrillos de piedra del end",
+    "method": "block_form_pattern"
+  },
+  "minecraft:end_stone_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de piedra del end",
+    "es_latam": "Escaleras de ladrillos de piedra del end",
+    "method": "block_form_pattern"
+  },
+  "minecraft:end_stone_brick_wall": {
+    "es_es": "Muro de ladrillos de piedra del end",
+    "es_latam": "Muro de ladrillos de piedra del end",
+    "method": "block_form_pattern"
+  },
+  "minecraft:end_stone_bricks": {
+    "es_es": "Ladrillos de piedra del End",
+    "es_latam": "Ladrillos de piedra del End",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:ender_chest": {
+    "es_es": "Cofre de ender",
+    "es_latam": "Cofre de ender",
+    "method": "exact_dictionary"
+  },
+  "minecraft:ender_eye": {
+    "es_es": "Ojo de ender",
+    "es_latam": "Ojo de ender",
+    "method": "exact_dictionary"
+  },
+  "minecraft:ender_pearl": {
+    "es_es": "Perla de ender",
+    "es_latam": "Perla de ender",
+    "method": "exact_dictionary"
+  },
+  "minecraft:exposed_chiseled_copper": {
+    "es_es": "Cobre cincelado expuesto",
+    "es_latam": "Cobre cincelado expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper": {
+    "es_es": "Bloque de cobre expuesto",
+    "es_latam": "Bloque de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_bars": {
+    "es_es": "Barrotes de cobre expuesto",
+    "es_latam": "Barrotes de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_bulb": {
+    "es_es": "Bombilla de cobre expuesto",
+    "es_latam": "Bombilla de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_chain": {
+    "es_es": "Cadena de cobre expuesto",
+    "es_latam": "Cadena de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_chest": {
+    "es_es": "Cofre de cobre expuesto",
+    "es_latam": "Cofre de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_door": {
+    "es_es": "Puerta de cobre expuesto",
+    "es_latam": "Puerta de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre expuesto",
+    "es_latam": "Estatua de gólem de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_grate": {
+    "es_es": "Rejilla de cobre expuesto",
+    "es_latam": "Rejilla de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_lantern": {
+    "es_es": "Farol de cobre expuesto",
+    "es_latam": "Farol de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_copper_trapdoor": {
+    "es_es": "Trampilla de cobre expuesto",
+    "es_latam": "Trampilla de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_cut_copper": {
+    "es_es": "Cobre cortado expuesto",
+    "es_latam": "Cobre cortado expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_cut_copper_slab": {
+    "es_es": "Losa de cobre cortado expuesto",
+    "es_latam": "Losa de cobre cortado expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado expuesto",
+    "es_latam": "Escaleras de cobre cortado expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:exposed_lightning_rod": {
+    "es_es": "Pararrayos de cobre expuesto",
+    "es_latam": "Pararrayos de cobre expuesto",
+    "method": "copper_pattern"
+  },
+  "minecraft:eye_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura eye",
+    "es_latam": "Plantilla de herrería: adorno de armadura eye",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:feather": {
+    "es_es": "Pluma",
+    "es_latam": "Pluma",
+    "method": "exact_dictionary"
+  },
+  "minecraft:fermented_spider_eye": {
+    "es_es": "Ojo de araña fermentado",
+    "es_latam": "Ojo de araña fermentado",
+    "method": "exact_dictionary"
+  },
+  "minecraft:field_masoned_banner_pattern": {
+    "es_es": "Diseño de estandarte: mampostería",
+    "es_latam": "Patrón de estandarte: mampostería",
+    "method": "exact_dictionary"
+  },
+  "minecraft:fire_charge": {
+    "es_es": "Carga ígnea",
+    "es_latam": "Carga de fuego",
+    "method": "exact_dictionary"
+  },
+  "minecraft:firework_rocket": {
+    "es_es": "Receta especial: cohete de fuegos artificiales",
+    "es_latam": "Receta especial: cohete de fuegos artificiales",
+    "method": "exact_dictionary"
+  },
+  "minecraft:fishing_rod": {
+    "es_es": "Caña de pescar",
+    "es_latam": "Caña de pescar",
+    "method": "exact_dictionary"
+  },
+  "minecraft:fletching_table": {
+    "es_es": "Mesa de flechas",
+    "es_latam": "Mesa de flechería",
+    "method": "exact_dictionary"
+  },
+  "minecraft:flint": {
+    "es_es": "Pedernal",
+    "es_latam": "Pedernal",
+    "method": "exact_dictionary"
+  },
+  "minecraft:flint_and_steel": {
+    "es_es": "Mechero",
+    "es_latam": "Pedernal y acero",
+    "method": "exact_dictionary"
+  },
+  "minecraft:flow_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura flow",
+    "es_latam": "Plantilla de herrería: adorno de armadura flow",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:flower_banner_pattern": {
+    "es_es": "Diseño de estandarte: flor",
+    "es_latam": "Patrón de estandarte: flor",
+    "method": "exact_dictionary"
+  },
+  "minecraft:flower_pot": {
+    "es_es": "Maceta",
+    "es_latam": "Maceta",
+    "method": "exact_dictionary"
+  },
+  "minecraft:furnace": {
+    "es_es": "Horno",
+    "es_latam": "Horno",
+    "method": "exact_dictionary"
+  },
+  "minecraft:furnace_minecart": {
+    "es_es": "Vagoneta con horno",
+    "es_latam": "Vagoneta con horno",
+    "method": "exact_dictionary"
+  },
+  "minecraft:glass_bottle": {
+    "es_es": "Frasco de cristal",
+    "es_latam": "Botella de vidrio",
+    "method": "exact_dictionary"
+  },
+  "minecraft:glass_pane": {
+    "es_es": "Panel de cristal",
+    "es_latam": "Panel de vidrio",
+    "method": "exact_dictionary"
+  },
+  "minecraft:glistering_melon_slice": {
+    "es_es": "Rodaja de sandía reluciente",
+    "es_latam": "Rebanada de melón reluciente",
+    "method": "exact_dictionary"
+  },
+  "minecraft:glow_ink_sac": {
+    "es_es": "Saco de tinta luminosa",
+    "es_latam": "Saco de tinta brillante",
+    "method": "exact_dictionary"
+  },
+  "minecraft:glow_item_frame": {
+    "es_es": "Marco luminoso",
+    "es_latam": "Marco brillante",
+    "method": "exact_dictionary"
+  },
+  "minecraft:glowstone": {
+    "es_es": "Piedra luminosa",
+    "es_latam": "Piedra brillante",
+    "method": "exact_dictionary"
+  },
+  "minecraft:gold_block": {
+    "es_es": "Bloque de oro",
+    "es_latam": "Bloque de oro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:gold_ingot": {
+    "es_es": "Lingote de oro",
+    "es_latam": "Lingote de oro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:gold_nugget": {
+    "es_es": "Pepita de oro",
+    "es_latam": "Pepita de oro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:golden_apple": {
+    "es_es": "Manzana dorada",
+    "es_latam": "Manzana dorada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:golden_axe": {
+    "es_es": "Hacha de oro",
+    "es_latam": "Hacha de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_boots": {
+    "es_es": "Botas de oro",
+    "es_latam": "Botas de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_carrot": {
+    "es_es": "Zanahoria dorada",
+    "es_latam": "Zanahoria dorada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:golden_chestplate": {
+    "es_es": "Peto de oro",
+    "es_latam": "Pechera de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_helmet": {
+    "es_es": "Casco de oro",
+    "es_latam": "Casco de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_hoe": {
+    "es_es": "Azada de oro",
+    "es_latam": "Azada de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_leggings": {
+    "es_es": "Grebas de oro",
+    "es_latam": "Grebas de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_pickaxe": {
+    "es_es": "Pico de oro",
+    "es_latam": "Pico de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_shovel": {
+    "es_es": "Pala de oro",
+    "es_latam": "Pala de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:golden_spear": {
+    "es_es": "Lanza de oro",
+    "es_latam": "Lanza de oro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:golden_sword": {
+    "es_es": "Espada de oro",
+    "es_latam": "Espada de oro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:granite": {
+    "es_es": "Granito",
+    "es_latam": "Granito",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:granite_slab": {
+    "es_es": "Losa de granito",
+    "es_latam": "Losa de granito",
+    "method": "block_form_pattern"
+  },
+  "minecraft:granite_stairs": {
+    "es_es": "Escaleras de granito",
+    "es_latam": "Escaleras de granito",
+    "method": "block_form_pattern"
+  },
+  "minecraft:granite_wall": {
+    "es_es": "Muro de granito",
+    "es_latam": "Muro de granito",
+    "method": "block_form_pattern"
+  },
+  "minecraft:gravel": {
+    "es_es": "Grava",
+    "es_latam": "Grava",
+    "method": "exact_dictionary"
+  },
+  "minecraft:gray_banner": {
+    "es_es": "Estandarte gris",
+    "es_latam": "Estandarte gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_bed": {
+    "es_es": "Cama gris",
+    "es_latam": "Cama gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_bundle": {
+    "es_es": "Saco gris",
+    "es_latam": "Bolsa gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_candle": {
+    "es_es": "Vela gris",
+    "es_latam": "Vela gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_carpet": {
+    "es_es": "Alfombra gris",
+    "es_latam": "Alfombra gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_concrete_powder": {
+    "es_es": "Cemento gris",
+    "es_latam": "Polvo de concreto gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_dye": {
+    "es_es": "Tinte gris",
+    "es_latam": "Tinte gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_harness": {
+    "es_es": "Arnés gris",
+    "es_latam": "Arnés gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_shulker_box": {
+    "es_es": "Caja de shulker gris",
+    "es_latam": "Caja de shulker gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_stained_glass": {
+    "es_es": "Cristal tintado de gris",
+    "es_latam": "Vidrio tintado de gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de gris",
+    "es_latam": "Panel de vidrio tintado de gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_terracotta": {
+    "es_es": "Terracota gris",
+    "es_latam": "Terracota gris",
+    "method": "color_pattern"
+  },
+  "minecraft:gray_wool": {
+    "es_es": "Lana gris",
+    "es_latam": "Lana gris",
+    "method": "color_pattern"
+  },
+  "minecraft:green_banner": {
+    "es_es": "Estandarte verde",
+    "es_latam": "Estandarte verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_bed": {
+    "es_es": "Cama verde",
+    "es_latam": "Cama verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_bundle": {
+    "es_es": "Saco verde",
+    "es_latam": "Bolsa verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_candle": {
+    "es_es": "Vela verde",
+    "es_latam": "Vela verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_carpet": {
+    "es_es": "Alfombra verde",
+    "es_latam": "Alfombra verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_concrete_powder": {
+    "es_es": "Cemento verde",
+    "es_latam": "Polvo de concreto verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_dye": {
+    "es_es": "Tinte verde",
+    "es_latam": "Tinte verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_harness": {
+    "es_es": "Arnés verde",
+    "es_latam": "Arnés verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_shulker_box": {
+    "es_es": "Caja de shulker verde",
+    "es_latam": "Caja de shulker verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_stained_glass": {
+    "es_es": "Cristal tintado de verde",
+    "es_latam": "Vidrio tintado de verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de verde",
+    "es_latam": "Panel de vidrio tintado de verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_terracotta": {
+    "es_es": "Terracota verde",
+    "es_latam": "Terracota verde",
+    "method": "color_pattern"
+  },
+  "minecraft:green_wool": {
+    "es_es": "Lana verde",
+    "es_latam": "Lana verde",
+    "method": "color_pattern"
+  },
+  "minecraft:grindstone": {
+    "es_es": "Piedra de afilar",
+    "es_latam": "Piedra de afilar",
+    "method": "exact_dictionary"
+  },
+  "minecraft:gunpowder": {
+    "es_es": "Pólvora",
+    "es_latam": "Pólvora",
+    "method": "exact_dictionary"
+  },
+  "minecraft:hay_block": {
+    "es_es": "Bloque de heno",
+    "es_latam": "Bloque de heno",
+    "method": "exact_dictionary"
+  },
+  "minecraft:heavy_weighted_pressure_plate": {
+    "es_es": "Placa de presión para pesos pesados",
+    "es_latam": "Placa de presión pesada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:honey_block": {
+    "es_es": "Bloque de miel",
+    "es_latam": "Bloque de miel",
+    "method": "exact_dictionary"
+  },
+  "minecraft:honey_bottle": {
+    "es_es": "Frasco con miel",
+    "es_latam": "Botella con miel",
+    "method": "exact_dictionary"
+  },
+  "minecraft:honeycomb": {
+    "es_es": "Panal",
+    "es_latam": "Panal",
+    "method": "exact_dictionary"
+  },
+  "minecraft:honeycomb_block": {
+    "es_es": "Bloque de panal",
+    "es_latam": "Bloque de panal",
+    "method": "exact_dictionary"
+  },
+  "minecraft:hopper": {
+    "es_es": "Tolva",
+    "es_latam": "Tolva",
+    "method": "exact_dictionary"
+  },
+  "minecraft:hopper_minecart": {
+    "es_es": "Vagoneta con tolva",
+    "es_latam": "Vagoneta con tolva",
+    "method": "exact_dictionary"
+  },
+  "minecraft:host_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura host",
+    "es_latam": "Plantilla de herrería: adorno de armadura host",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:ice": {
+    "es_es": "Hielo",
+    "es_latam": "Hielo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:ink_sac": {
+    "es_es": "Saco de tinta",
+    "es_latam": "Saco de tinta",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_axe": {
+    "es_es": "Hacha de hierro",
+    "es_latam": "Hacha de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_bars": {
+    "es_es": "Barrotes de hierro",
+    "es_latam": "Barrotes de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_block": {
+    "es_es": "Bloque de hierro",
+    "es_latam": "Bloque de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_boots": {
+    "es_es": "Botas de hierro",
+    "es_latam": "Botas de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_chain": {
+    "es_es": "Cadena de hierro",
+    "es_latam": "Cadena de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_chestplate": {
+    "es_es": "Peto de hierro",
+    "es_latam": "Pechera de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_door": {
+    "es_es": "Puerta de hierro",
+    "es_latam": "Puerta de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_helmet": {
+    "es_es": "Casco de hierro",
+    "es_latam": "Casco de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_hoe": {
+    "es_es": "Azada de hierro",
+    "es_latam": "Azada de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_ingot": {
+    "es_es": "Lingote de hierro",
+    "es_latam": "Lingote de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_leggings": {
+    "es_es": "Grebas de hierro",
+    "es_latam": "Grebas de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_nugget": {
+    "es_es": "Pepita de hierro",
+    "es_latam": "Pepita de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_pickaxe": {
+    "es_es": "Pico de hierro",
+    "es_latam": "Pico de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_shovel": {
+    "es_es": "Pala de hierro",
+    "es_latam": "Pala de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_spear": {
+    "es_es": "Lanza de hierro",
+    "es_latam": "Lanza de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:iron_sword": {
+    "es_es": "Espada de hierro",
+    "es_latam": "Espada de hierro",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:iron_trapdoor": {
+    "es_es": "Trampilla de hierro",
+    "es_latam": "Trampilla de hierro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:item_frame": {
+    "es_es": "Marco",
+    "es_latam": "Marco",
+    "method": "exact_dictionary"
+  },
+  "minecraft:jack_o_lantern": {
+    "es_es": "Calabaza iluminada",
+    "es_latam": "Calabaza iluminada",
+    "method": "exact_dictionary"
+  },
+  "minecraft:jukebox": {
+    "es_es": "Tocadiscos",
+    "es_latam": "Tocadiscos",
+    "method": "exact_dictionary"
+  },
+  "minecraft:jungle_boat": {
+    "es_es": "Barca de jungla",
+    "es_latam": "Bote de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_button": {
+    "es_es": "Botón de jungla",
+    "es_latam": "Botón de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_chest_boat": {
+    "es_es": "Barca con cofre de jungla",
+    "es_latam": "Bote con cofre de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_door": {
+    "es_es": "Puerta de jungla",
+    "es_latam": "Puerta de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_fence": {
+    "es_es": "Valla de jungla",
+    "es_latam": "Valla de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_fence_gate": {
+    "es_es": "Puerta de valla de jungla",
+    "es_latam": "Puerta de valla de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_hanging_sign": {
+    "es_es": "Cartel colgante de jungla",
+    "es_latam": "Letrero colgante de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_planks": {
+    "es_es": "Tablones de jungla",
+    "es_latam": "Tablones de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_pressure_plate": {
+    "es_es": "Placa de presión de jungla",
+    "es_latam": "Placa de presión de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_shelf": {
+    "es_es": "Estante de jungla",
+    "es_latam": "Estante de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_sign": {
+    "es_es": "Cartel de jungla",
+    "es_latam": "Letrero de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_slab": {
+    "es_es": "Losa de jungla",
+    "es_latam": "Losa de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_stairs": {
+    "es_es": "Escaleras de jungla",
+    "es_latam": "Escaleras de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_trapdoor": {
+    "es_es": "Trampilla de jungla",
+    "es_latam": "Trampilla de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:jungle_wood": {
+    "es_es": "Madera de jungla",
+    "es_latam": "Madera de jungla",
+    "method": "wood_pattern"
+  },
+  "minecraft:ladder": {
+    "es_es": "Escalera de mano",
+    "es_latam": "Escalera de mano",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lantern": {
+    "es_es": "Farolillo",
+    "es_latam": "Farol",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lapis_block": {
+    "es_es": "Bloque de lapislázuli",
+    "es_latam": "Bloque de lapislázuli",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lapis_lazuli": {
+    "es_es": "Lapislázuli",
+    "es_latam": "Lapislázuli",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lead": {
+    "es_es": "Rienda",
+    "es_latam": "Correa",
+    "method": "exact_dictionary"
+  },
+  "minecraft:leather": {
+    "es_es": "Cuero",
+    "es_latam": "Cuero",
+    "method": "exact_dictionary"
+  },
+  "minecraft:leather_boots": {
+    "es_es": "Botas de cuero",
+    "es_latam": "Botas de cuero",
+    "method": "exact_dictionary"
+  },
+  "minecraft:leather_chestplate": {
+    "es_es": "Túnica de cuero",
+    "es_latam": "Pechera de cuero",
+    "method": "exact_dictionary"
+  },
+  "minecraft:leather_helmet": {
+    "es_es": "Casco de cuero",
+    "es_latam": "Casco de cuero",
+    "method": "exact_dictionary"
+  },
+  "minecraft:leather_horse_armor": {
+    "es_es": "Armadura de cuero para caballo",
+    "es_latam": "Armadura de cuero para caballo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:leather_leggings": {
+    "es_es": "Pantalones de cuero",
+    "es_latam": "Pantalones de cuero",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lectern": {
+    "es_es": "Atril",
+    "es_latam": "Atril",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lever": {
+    "es_es": "Palanca",
+    "es_latam": "Palanca",
+    "method": "exact_dictionary"
+  },
+  "minecraft:light_blue_banner": {
+    "es_es": "Estandarte azul claro",
+    "es_latam": "Estandarte azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_bed": {
+    "es_es": "Cama azul claro",
+    "es_latam": "Cama azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_bundle": {
+    "es_es": "Saco azul claro",
+    "es_latam": "Bolsa azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_candle": {
+    "es_es": "Vela azul claro",
+    "es_latam": "Vela azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_carpet": {
+    "es_es": "Alfombra azul claro",
+    "es_latam": "Alfombra azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_concrete_powder": {
+    "es_es": "Cemento azul claro",
+    "es_latam": "Polvo de concreto azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_dye": {
+    "es_es": "Tinte azul claro",
+    "es_latam": "Tinte azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_harness": {
+    "es_es": "Arnés azul claro",
+    "es_latam": "Arnés azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_shulker_box": {
+    "es_es": "Caja de shulker azul claro",
+    "es_latam": "Caja de shulker azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_stained_glass": {
+    "es_es": "Cristal tintado de azul claro",
+    "es_latam": "Vidrio tintado de azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de azul claro",
+    "es_latam": "Panel de vidrio tintado de azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_terracotta": {
+    "es_es": "Terracota azul claro",
+    "es_latam": "Terracota azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_blue_wool": {
+    "es_es": "Lana azul claro",
+    "es_latam": "Lana azul claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_banner": {
+    "es_es": "Estandarte gris claro",
+    "es_latam": "Estandarte gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_bed": {
+    "es_es": "Cama gris claro",
+    "es_latam": "Cama gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_bundle": {
+    "es_es": "Saco gris claro",
+    "es_latam": "Bolsa gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_candle": {
+    "es_es": "Vela gris claro",
+    "es_latam": "Vela gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_carpet": {
+    "es_es": "Alfombra gris claro",
+    "es_latam": "Alfombra gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_concrete_powder": {
+    "es_es": "Cemento gris claro",
+    "es_latam": "Polvo de concreto gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_dye": {
+    "es_es": "Tinte gris claro",
+    "es_latam": "Tinte gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_harness": {
+    "es_es": "Arnés gris claro",
+    "es_latam": "Arnés gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_shulker_box": {
+    "es_es": "Caja de shulker gris claro",
+    "es_latam": "Caja de shulker gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_stained_glass": {
+    "es_es": "Cristal tintado de gris claro",
+    "es_latam": "Vidrio tintado de gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de gris claro",
+    "es_latam": "Panel de vidrio tintado de gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_terracotta": {
+    "es_es": "Terracota gris claro",
+    "es_latam": "Terracota gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_gray_wool": {
+    "es_es": "Lana gris claro",
+    "es_latam": "Lana gris claro",
+    "method": "color_pattern"
+  },
+  "minecraft:light_weighted_pressure_plate": {
+    "es_es": "Placa de presión para pesos ligeros",
+    "es_latam": "Placa de presión ligera",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lightning_rod": {
+    "es_es": "Pararrayos",
+    "es_latam": "Pararrayos",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lilac": {
+    "es_es": "Lila",
+    "es_latam": "Lila",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lily_of_the_valley": {
+    "es_es": "Lirio de los valles",
+    "es_latam": "Lirio de los valles",
+    "method": "exact_dictionary"
+  },
+  "minecraft:lime_banner": {
+    "es_es": "Estandarte lima",
+    "es_latam": "Estandarte lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_bed": {
+    "es_es": "Cama lima",
+    "es_latam": "Cama lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_bundle": {
+    "es_es": "Saco lima",
+    "es_latam": "Bolsa lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_candle": {
+    "es_es": "Vela lima",
+    "es_latam": "Vela lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_carpet": {
+    "es_es": "Alfombra lima",
+    "es_latam": "Alfombra lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_concrete_powder": {
+    "es_es": "Cemento lima",
+    "es_latam": "Polvo de concreto lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_dye": {
+    "es_es": "Tinte lima",
+    "es_latam": "Tinte lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_harness": {
+    "es_es": "Arnés lima",
+    "es_latam": "Arnés lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_shulker_box": {
+    "es_es": "Caja de shulker lima",
+    "es_latam": "Caja de shulker lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_stained_glass": {
+    "es_es": "Cristal tintado de lima",
+    "es_latam": "Vidrio tintado de lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de lima",
+    "es_latam": "Panel de vidrio tintado de lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_terracotta": {
+    "es_es": "Terracota lima",
+    "es_latam": "Terracota lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lime_wool": {
+    "es_es": "Lana lima",
+    "es_latam": "Lana lima",
+    "method": "color_pattern"
+  },
+  "minecraft:lodestone": {
+    "es_es": "Magnetita",
+    "es_latam": "Magnetita",
+    "method": "exact_dictionary"
+  },
+  "minecraft:loom": {
+    "es_es": "Telar",
+    "es_latam": "Telar",
+    "method": "exact_dictionary"
+  },
+  "minecraft:mace": {
+    "es_es": "Maza",
+    "es_latam": "Maza",
+    "method": "exact_dictionary"
+  },
+  "minecraft:magenta_banner": {
+    "es_es": "Estandarte magenta",
+    "es_latam": "Estandarte magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_bed": {
+    "es_es": "Cama magenta",
+    "es_latam": "Cama magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_bundle": {
+    "es_es": "Saco magenta",
+    "es_latam": "Bolsa magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_candle": {
+    "es_es": "Vela magenta",
+    "es_latam": "Vela magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_carpet": {
+    "es_es": "Alfombra magenta",
+    "es_latam": "Alfombra magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_concrete_powder": {
+    "es_es": "Cemento magenta",
+    "es_latam": "Polvo de concreto magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_dye": {
+    "es_es": "Tinte magenta",
+    "es_latam": "Tinte magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_harness": {
+    "es_es": "Arnés magenta",
+    "es_latam": "Arnés magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_shulker_box": {
+    "es_es": "Caja de shulker magenta",
+    "es_latam": "Caja de shulker magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_stained_glass": {
+    "es_es": "Cristal tintado de magenta",
+    "es_latam": "Vidrio tintado de magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de magenta",
+    "es_latam": "Panel de vidrio tintado de magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_terracotta": {
+    "es_es": "Terracota magenta",
+    "es_latam": "Terracota magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magenta_wool": {
+    "es_es": "Lana magenta",
+    "es_latam": "Lana magenta",
+    "method": "color_pattern"
+  },
+  "minecraft:magma_block": {
+    "es_es": "Bloque de magma",
+    "es_latam": "Bloque de magma",
+    "method": "exact_dictionary"
+  },
+  "minecraft:magma_cream": {
+    "es_es": "Crema de magma",
+    "es_latam": "Crema de magma",
+    "method": "exact_dictionary"
+  },
+  "minecraft:mangrove_boat": {
+    "es_es": "Barca de mangle",
+    "es_latam": "Bote de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_button": {
+    "es_es": "Botón de mangle",
+    "es_latam": "Botón de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_chest_boat": {
+    "es_es": "Barca con cofre de mangle",
+    "es_latam": "Bote con cofre de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_door": {
+    "es_es": "Puerta de mangle",
+    "es_latam": "Puerta de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_fence": {
+    "es_es": "Valla de mangle",
+    "es_latam": "Valla de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_fence_gate": {
+    "es_es": "Puerta de valla de mangle",
+    "es_latam": "Puerta de valla de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_hanging_sign": {
+    "es_es": "Cartel colgante de mangle",
+    "es_latam": "Letrero colgante de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_planks": {
+    "es_es": "Tablones de mangle",
+    "es_latam": "Tablones de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_pressure_plate": {
+    "es_es": "Placa de presión de mangle",
+    "es_latam": "Placa de presión de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_roots": {
+    "es_es": "Raíces de mangle",
+    "es_latam": "Raíces de mangle",
+    "method": "exact_dictionary"
+  },
+  "minecraft:mangrove_shelf": {
+    "es_es": "Estante de mangle",
+    "es_latam": "Estante de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_sign": {
+    "es_es": "Cartel de mangle",
+    "es_latam": "Letrero de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_slab": {
+    "es_es": "Losa de mangle",
+    "es_latam": "Losa de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_stairs": {
+    "es_es": "Escaleras de mangle",
+    "es_latam": "Escaleras de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_trapdoor": {
+    "es_es": "Trampilla de mangle",
+    "es_latam": "Trampilla de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:mangrove_wood": {
+    "es_es": "Madera de mangle",
+    "es_latam": "Madera de mangle",
+    "method": "wood_pattern"
+  },
+  "minecraft:map": {
+    "es_es": "Mapa vacío",
+    "es_latam": "Mapa vacío",
+    "method": "exact_dictionary"
+  },
+  "minecraft:melon": {
+    "es_es": "Sandía",
+    "es_latam": "Melón",
+    "method": "exact_dictionary"
+  },
+  "minecraft:melon_seeds": {
+    "es_es": "Semillas de sandía",
+    "es_latam": "Semillas de melón",
+    "method": "exact_dictionary"
+  },
+  "minecraft:melon_slice": {
+    "es_es": "Rodaja de sandía",
+    "es_latam": "Rebanada de melón",
+    "method": "exact_dictionary"
+  },
+  "minecraft:minecart": {
+    "es_es": "Vagoneta",
+    "es_latam": "Vagoneta",
+    "method": "exact_dictionary"
+  },
+  "minecraft:mojang_banner_pattern": {
+    "es_es": "Diseño de estandarte: Mojang",
+    "es_latam": "Patrón de estandarte: Mojang",
+    "method": "exact_dictionary"
+  },
+  "minecraft:moss_block": {
+    "es_es": "Bloque de musgo",
+    "es_latam": "Bloque de musgo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:moss_carpet": {
+    "es_es": "Alfombra de musgo",
+    "es_latam": "Alfombra de musgo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:mossy_cobblestone": {
+    "es_es": "Adoquín musgoso",
+    "es_latam": "Roca musgosa",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:mossy_cobblestone_slab": {
+    "es_es": "Losa de adoquín musgoso",
+    "es_latam": "Losa de roca musgosa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mossy_cobblestone_stairs": {
+    "es_es": "Escaleras de adoquín musgoso",
+    "es_latam": "Escaleras de roca musgosa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mossy_cobblestone_wall": {
+    "es_es": "Muro de adoquín musgoso",
+    "es_latam": "Muro de roca musgosa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mossy_stone_brick_slab": {
+    "es_es": "Losa de ladrillos de piedra musgosos",
+    "es_latam": "Losa de ladrillos de piedra musgosos",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mossy_stone_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de piedra musgosos",
+    "es_latam": "Escaleras de ladrillos de piedra musgosos",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mossy_stone_brick_wall": {
+    "es_es": "Muro de ladrillos de piedra musgosos",
+    "es_latam": "Muro de ladrillos de piedra musgosos",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mossy_stone_bricks": {
+    "es_es": "Ladrillos de piedra musgosos",
+    "es_latam": "Ladrillos de piedra musgosos",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:mud": {
+    "es_es": "Barro",
+    "es_latam": "Lodo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:mud_brick_slab": {
+    "es_es": "Losa de ladrillos de barro",
+    "es_latam": "Losa de ladrillos de lodo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mud_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de barro",
+    "es_latam": "Escaleras de ladrillos de lodo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mud_brick_wall": {
+    "es_es": "Muro de ladrillos de barro",
+    "es_latam": "Muro de ladrillos de lodo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:mud_bricks": {
+    "es_es": "Ladrillos de barro",
+    "es_latam": "Ladrillos de lodo",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:muddy_mangrove_roots": {
+    "es_es": "Raíces de mangle con barro",
+    "es_latam": "Raíces de mangle con lodo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:mushroom_stew": {
+    "es_es": "Estofado de champiñones",
+    "es_latam": "Estofado de champiñones",
+    "method": "exact_dictionary"
+  },
+  "minecraft:music_disc_5": {
+    "es_es": "Disco de música 5",
+    "es_latam": "Disco de música 5",
+    "method": "exact_dictionary"
+  },
+  "minecraft:nether_brick_fence": {
+    "es_es": "Valla de ladrillos del Nether",
+    "es_latam": "Valla de ladrillos del Nether",
+    "method": "exact_dictionary"
+  },
+  "minecraft:nether_brick_slab": {
+    "es_es": "Losa de ladrillos del nether",
+    "es_latam": "Losa de ladrillos del nether",
+    "method": "block_form_pattern"
+  },
+  "minecraft:nether_brick_stairs": {
+    "es_es": "Escaleras de ladrillos del nether",
+    "es_latam": "Escaleras de ladrillos del nether",
+    "method": "block_form_pattern"
+  },
+  "minecraft:nether_brick_wall": {
+    "es_es": "Muro de ladrillos del nether",
+    "es_latam": "Muro de ladrillos del nether",
+    "method": "block_form_pattern"
+  },
+  "minecraft:nether_bricks": {
+    "es_es": "Ladrillos del Nether",
+    "es_latam": "Ladrillos del Nether",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:nether_wart": {
+    "es_es": "Verruga del Nether",
+    "es_latam": "Verruga del Nether",
+    "method": "exact_dictionary"
+  },
+  "minecraft:nether_wart_block": {
+    "es_es": "Bloque de verrugas del Nether",
+    "es_latam": "Bloque de verrugas del Nether",
+    "method": "exact_dictionary"
+  },
+  "minecraft:netherite_block": {
+    "es_es": "Bloque de netherita",
+    "es_latam": "Bloque de netherita",
+    "method": "exact_dictionary"
+  },
+  "minecraft:netherite_ingot": {
+    "es_es": "Lingote de netherita",
+    "es_latam": "Lingote de netherita",
+    "method": "exact_dictionary"
+  },
+  "minecraft:netherite_scrap": {
+    "es_es": "Fragmento de netherita",
+    "es_latam": "Fragmento de netherita",
+    "method": "exact_dictionary"
+  },
+  "minecraft:netherite_upgrade_smithing_template": {
+    "es_es": "Plantilla de herrería: mejora a netherita",
+    "es_latam": "Plantilla de herrería: mejora a netherita",
+    "method": "exact_dictionary"
+  },
+  "minecraft:note_block": {
+    "es_es": "Bloque musical",
+    "es_latam": "Bloque musical",
+    "method": "exact_dictionary"
+  },
+  "minecraft:oak_boat": {
+    "es_es": "Barca de roble",
+    "es_latam": "Bote de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_button": {
+    "es_es": "Botón de roble",
+    "es_latam": "Botón de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_chest_boat": {
+    "es_es": "Barca con cofre de roble",
+    "es_latam": "Bote con cofre de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_door": {
+    "es_es": "Puerta de roble",
+    "es_latam": "Puerta de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_fence": {
+    "es_es": "Valla de roble",
+    "es_latam": "Valla de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_fence_gate": {
+    "es_es": "Puerta de valla de roble",
+    "es_latam": "Puerta de valla de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_hanging_sign": {
+    "es_es": "Cartel colgante de roble",
+    "es_latam": "Letrero colgante de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_planks": {
+    "es_es": "Tablones de roble",
+    "es_latam": "Tablones de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_pressure_plate": {
+    "es_es": "Placa de presión de roble",
+    "es_latam": "Placa de presión de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_shelf": {
+    "es_es": "Estante de roble",
+    "es_latam": "Estante de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_sign": {
+    "es_es": "Cartel de roble",
+    "es_latam": "Letrero de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_slab": {
+    "es_es": "Losa de roble",
+    "es_latam": "Losa de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_stairs": {
+    "es_es": "Escaleras de roble",
+    "es_latam": "Escaleras de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_trapdoor": {
+    "es_es": "Trampilla de roble",
+    "es_latam": "Trampilla de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:oak_wood": {
+    "es_es": "Madera de roble",
+    "es_latam": "Madera de roble",
+    "method": "wood_pattern"
+  },
+  "minecraft:observer": {
+    "es_es": "Observador",
+    "es_latam": "Observador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:open_eyeblossom": {
+    "es_es": "Flor ocular abierta",
+    "es_latam": "Flor ocular abierta",
+    "method": "exact_dictionary"
+  },
+  "minecraft:orange_banner": {
+    "es_es": "Estandarte naranja",
+    "es_latam": "Estandarte naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_bed": {
+    "es_es": "Cama naranja",
+    "es_latam": "Cama naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_bundle": {
+    "es_es": "Saco naranja",
+    "es_latam": "Bolsa naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_candle": {
+    "es_es": "Vela naranja",
+    "es_latam": "Vela naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_carpet": {
+    "es_es": "Alfombra naranja",
+    "es_latam": "Alfombra naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_concrete_powder": {
+    "es_es": "Cemento naranja",
+    "es_latam": "Polvo de concreto naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_dye": {
+    "es_es": "Tinte naranja",
+    "es_latam": "Tinte naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_harness": {
+    "es_es": "Arnés naranja",
+    "es_latam": "Arnés naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_shulker_box": {
+    "es_es": "Caja de shulker naranja",
+    "es_latam": "Caja de shulker naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_stained_glass": {
+    "es_es": "Cristal tintado de naranja",
+    "es_latam": "Vidrio tintado de naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de naranja",
+    "es_latam": "Panel de vidrio tintado de naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_terracotta": {
+    "es_es": "Terracota naranja",
+    "es_latam": "Terracota naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:orange_tulip": {
+    "es_es": "Tulipán naranja",
+    "es_latam": "Tulipán naranja",
+    "method": "exact_dictionary"
+  },
+  "minecraft:orange_wool": {
+    "es_es": "Lana naranja",
+    "es_latam": "Lana naranja",
+    "method": "color_pattern"
+  },
+  "minecraft:oxeye_daisy": {
+    "es_es": "Margarita",
+    "es_latam": "Margarita",
+    "method": "exact_dictionary"
+  },
+  "minecraft:oxidized_chiseled_copper": {
+    "es_es": "Cobre cincelado oxidado",
+    "es_latam": "Cobre cincelado oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper": {
+    "es_es": "Bloque de cobre oxidado",
+    "es_latam": "Bloque de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_bars": {
+    "es_es": "Barrotes de cobre oxidado",
+    "es_latam": "Barrotes de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_bulb": {
+    "es_es": "Bombilla de cobre oxidado",
+    "es_latam": "Bombilla de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_chain": {
+    "es_es": "Cadena de cobre oxidado",
+    "es_latam": "Cadena de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_chest": {
+    "es_es": "Cofre de cobre oxidado",
+    "es_latam": "Cofre de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_door": {
+    "es_es": "Puerta de cobre oxidado",
+    "es_latam": "Puerta de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre oxidado",
+    "es_latam": "Estatua de gólem de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_grate": {
+    "es_es": "Rejilla de cobre oxidado",
+    "es_latam": "Rejilla de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_lantern": {
+    "es_es": "Farol de cobre oxidado",
+    "es_latam": "Farol de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_copper_trapdoor": {
+    "es_es": "Trampilla de cobre oxidado",
+    "es_latam": "Trampilla de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_cut_copper": {
+    "es_es": "Cobre cortado oxidado",
+    "es_latam": "Cobre cortado oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_cut_copper_slab": {
+    "es_es": "Losa de cobre cortado oxidado",
+    "es_latam": "Losa de cobre cortado oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado oxidado",
+    "es_latam": "Escaleras de cobre cortado oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:oxidized_lightning_rod": {
+    "es_es": "Pararrayos de cobre oxidado",
+    "es_latam": "Pararrayos de cobre oxidado",
+    "method": "copper_pattern"
+  },
+  "minecraft:packed_ice": {
+    "es_es": "Hielo compacto",
+    "es_latam": "Hielo compacto",
+    "method": "exact_dictionary"
+  },
+  "minecraft:packed_mud": {
+    "es_es": "Barro compacto",
+    "es_latam": "Lodo compacto",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:painting": {
+    "es_es": "Cuadro",
+    "es_latam": "Cuadro",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pale_moss_carpet": {
+    "es_es": "Alfombra de musgo pálido",
+    "es_latam": "Alfombra de musgo pálido",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pale_oak_boat": {
+    "es_es": "Barca de roble pálido",
+    "es_latam": "Bote de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_button": {
+    "es_es": "Botón de roble pálido",
+    "es_latam": "Botón de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_chest_boat": {
+    "es_es": "Barca con cofre de roble pálido",
+    "es_latam": "Bote con cofre de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_door": {
+    "es_es": "Puerta de roble pálido",
+    "es_latam": "Puerta de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_fence": {
+    "es_es": "Valla de roble pálido",
+    "es_latam": "Valla de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_fence_gate": {
+    "es_es": "Puerta de valla de roble pálido",
+    "es_latam": "Puerta de valla de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_hanging_sign": {
+    "es_es": "Cartel colgante de roble pálido",
+    "es_latam": "Letrero colgante de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_planks": {
+    "es_es": "Tablones de roble pálido",
+    "es_latam": "Tablones de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_pressure_plate": {
+    "es_es": "Placa de presión de roble pálido",
+    "es_latam": "Placa de presión de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_shelf": {
+    "es_es": "Estante de roble pálido",
+    "es_latam": "Estante de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_sign": {
+    "es_es": "Cartel de roble pálido",
+    "es_latam": "Letrero de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_slab": {
+    "es_es": "Losa de roble pálido",
+    "es_latam": "Losa de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_stairs": {
+    "es_es": "Escaleras de roble pálido",
+    "es_latam": "Escaleras de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_trapdoor": {
+    "es_es": "Trampilla de roble pálido",
+    "es_latam": "Trampilla de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:pale_oak_wood": {
+    "es_es": "Madera de roble pálido",
+    "es_latam": "Madera de roble pálido",
+    "method": "wood_pattern"
+  },
+  "minecraft:paper": {
+    "es_es": "Papel",
+    "es_latam": "Papel",
+    "method": "exact_dictionary"
+  },
+  "minecraft:peony": {
+    "es_es": "Peonía",
+    "es_latam": "Peonía",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pink_banner": {
+    "es_es": "Estandarte rosa",
+    "es_latam": "Estandarte rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_bed": {
+    "es_es": "Cama rosa",
+    "es_latam": "Cama rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_bundle": {
+    "es_es": "Saco rosa",
+    "es_latam": "Bolsa rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_candle": {
+    "es_es": "Vela rosa",
+    "es_latam": "Vela rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_carpet": {
+    "es_es": "Alfombra rosa",
+    "es_latam": "Alfombra rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_concrete_powder": {
+    "es_es": "Cemento rosa",
+    "es_latam": "Polvo de concreto rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_dye": {
+    "es_es": "Tinte rosa",
+    "es_latam": "Tinte rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_harness": {
+    "es_es": "Arnés rosa",
+    "es_latam": "Arnés rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_petals": {
+    "es_es": "Pétalos rosas",
+    "es_latam": "Pétalos rosas",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pink_shulker_box": {
+    "es_es": "Caja de shulker rosa",
+    "es_latam": "Caja de shulker rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_stained_glass": {
+    "es_es": "Cristal tintado de rosa",
+    "es_latam": "Vidrio tintado de rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de rosa",
+    "es_latam": "Panel de vidrio tintado de rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_terracotta": {
+    "es_es": "Terracota rosa",
+    "es_latam": "Terracota rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:pink_tulip": {
+    "es_es": "Tulipán rosa",
+    "es_latam": "Tulipán rosa",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pink_wool": {
+    "es_es": "Lana rosa",
+    "es_latam": "Lana rosa",
+    "method": "color_pattern"
+  },
+  "minecraft:piston": {
+    "es_es": "Pistón",
+    "es_latam": "Pistón",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pitcher_plant": {
+    "es_es": "Planta odre",
+    "es_latam": "Planta odre",
+    "method": "exact_dictionary"
+  },
+  "minecraft:polished_andesite": {
+    "es_es": "Andesita pulida",
+    "es_latam": "Andesita pulida",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_andesite_slab": {
+    "es_es": "Losa de andesita pulida",
+    "es_latam": "Losa de andesita pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_andesite_stairs": {
+    "es_es": "Escaleras de andesita pulida",
+    "es_latam": "Escaleras de andesita pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_basalt": {
+    "es_es": "Basalto pulido",
+    "es_latam": "Basalto pulido",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_blackstone": {
+    "es_es": "Piedra negra pulida",
+    "es_latam": "Piedra negra pulida",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_blackstone_brick_slab": {
+    "es_es": "Losa de ladrillos de piedra negra pulida",
+    "es_latam": "Losa de ladrillos de piedra negra pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_blackstone_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de piedra negra pulida",
+    "es_latam": "Escaleras de ladrillos de piedra negra pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_blackstone_brick_wall": {
+    "es_es": "Muro de ladrillos de piedra negra pulida",
+    "es_latam": "Muro de ladrillos de piedra negra pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_blackstone_bricks": {
+    "es_es": "Ladrillos de piedra negra pulida",
+    "es_latam": "Ladrillos de piedra negra pulida",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_blackstone_button": {
+    "es_es": "Botón de piedra negra pulida",
+    "es_latam": "Botón de piedra negra pulida",
+    "method": "exact_dictionary"
+  },
+  "minecraft:polished_blackstone_pressure_plate": {
+    "es_es": "Placa de presión de piedra negra pulida",
+    "es_latam": "Placa de presión de piedra negra pulida",
+    "method": "exact_dictionary"
+  },
+  "minecraft:polished_blackstone_slab": {
+    "es_es": "Losa de piedra negra pulida",
+    "es_latam": "Losa de piedra negra pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_blackstone_stairs": {
+    "es_es": "Escaleras de piedra negra pulida",
+    "es_latam": "Escaleras de piedra negra pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_blackstone_wall": {
+    "es_es": "Muro de piedra negra pulida",
+    "es_latam": "Muro de piedra negra pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_deepslate": {
+    "es_es": "Pizarra profunda pulida",
+    "es_latam": "Pizarra profunda pulida",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_deepslate_slab": {
+    "es_es": "Losa de pizarra profunda pulida",
+    "es_latam": "Losa de pizarra profunda pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_deepslate_stairs": {
+    "es_es": "Escaleras de pizarra profunda pulida",
+    "es_latam": "Escaleras de pizarra profunda pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_deepslate_wall": {
+    "es_es": "Muro de pizarra profunda pulida",
+    "es_latam": "Muro de pizarra profunda pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_diorite": {
+    "es_es": "Diorita pulida",
+    "es_latam": "Diorita pulida",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_diorite_slab": {
+    "es_es": "Losa de diorita pulida",
+    "es_latam": "Losa de diorita pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_diorite_stairs": {
+    "es_es": "Escaleras de diorita pulida",
+    "es_latam": "Escaleras de diorita pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_granite": {
+    "es_es": "Granito pulido",
+    "es_latam": "Granito pulido",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_granite_slab": {
+    "es_es": "Losa de granito pulido",
+    "es_latam": "Losa de granito pulido",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_granite_stairs": {
+    "es_es": "Escaleras de granito pulido",
+    "es_latam": "Escaleras de granito pulido",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_tuff": {
+    "es_es": "Toba pulida",
+    "es_latam": "Toba pulida",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:polished_tuff_slab": {
+    "es_es": "Losa de toba pulida",
+    "es_latam": "Losa de toba pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_tuff_stairs": {
+    "es_es": "Escaleras de toba pulida",
+    "es_latam": "Escaleras de toba pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:polished_tuff_wall": {
+    "es_es": "Muro de toba pulida",
+    "es_latam": "Muro de toba pulida",
+    "method": "block_form_pattern"
+  },
+  "minecraft:poppy": {
+    "es_es": "Amapola",
+    "es_latam": "Amapola",
+    "method": "exact_dictionary"
+  },
+  "minecraft:powered_rail": {
+    "es_es": "Raíl propulsor",
+    "es_latam": "Riel propulsor",
+    "method": "exact_dictionary"
+  },
+  "minecraft:prismarine": {
+    "es_es": "Prismarina",
+    "es_latam": "Prismarina",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:prismarine_brick_slab": {
+    "es_es": "Losa de ladrillos de prismarina",
+    "es_latam": "Losa de ladrillos de prismarina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:prismarine_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de prismarina",
+    "es_latam": "Escaleras de ladrillos de prismarina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:prismarine_bricks": {
+    "es_es": "Ladrillos de prismarina",
+    "es_latam": "Ladrillos de prismarina",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:prismarine_shard": {
+    "es_es": "Fragmento de prismarina",
+    "es_latam": "Fragmento de prismarina",
+    "method": "exact_dictionary"
+  },
+  "minecraft:prismarine_slab": {
+    "es_es": "Losa de prismarina",
+    "es_latam": "Losa de prismarina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:prismarine_stairs": {
+    "es_es": "Escaleras de prismarina",
+    "es_latam": "Escaleras de prismarina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:prismarine_wall": {
+    "es_es": "Muro de prismarina",
+    "es_latam": "Muro de prismarina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:pumpkin": {
+    "es_es": "Calabaza",
+    "es_latam": "Calabaza",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pumpkin_pie": {
+    "es_es": "Pastel de calabaza",
+    "es_latam": "Pastel de calabaza",
+    "method": "exact_dictionary"
+  },
+  "minecraft:pumpkin_seeds": {
+    "es_es": "Semillas de calabaza",
+    "es_latam": "Semillas de calabaza",
+    "method": "exact_dictionary"
+  },
+  "minecraft:purple_banner": {
+    "es_es": "Estandarte morado",
+    "es_latam": "Estandarte púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_bed": {
+    "es_es": "Cama morada",
+    "es_latam": "Cama púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_bundle": {
+    "es_es": "Saco morado",
+    "es_latam": "Bolsa púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_candle": {
+    "es_es": "Vela morada",
+    "es_latam": "Vela púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_carpet": {
+    "es_es": "Alfombra morada",
+    "es_latam": "Alfombra púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_concrete_powder": {
+    "es_es": "Cemento morado",
+    "es_latam": "Polvo de concreto púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_dye": {
+    "es_es": "Tinte morado",
+    "es_latam": "Tinte púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_harness": {
+    "es_es": "Arnés morado",
+    "es_latam": "Arnés púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_shulker_box": {
+    "es_es": "Caja de shulker morada",
+    "es_latam": "Caja de shulker púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_stained_glass": {
+    "es_es": "Cristal tintado de morado",
+    "es_latam": "Vidrio tintado de púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de morado",
+    "es_latam": "Panel de vidrio tintado de púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_terracotta": {
+    "es_es": "Terracota morada",
+    "es_latam": "Terracota púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purple_wool": {
+    "es_es": "Lana morada",
+    "es_latam": "Lana púrpura",
+    "method": "color_pattern"
+  },
+  "minecraft:purpur_block": {
+    "es_es": "Bloque de purpur",
+    "es_latam": "Bloque de purpur",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:purpur_pillar": {
+    "es_es": "Pilar de purpur",
+    "es_latam": "Pilar de purpur",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:purpur_slab": {
+    "es_es": "Losa de purpur",
+    "es_latam": "Losa de purpur",
+    "method": "block_form_pattern"
+  },
+  "minecraft:purpur_stairs": {
+    "es_es": "Escaleras de purpur",
+    "es_latam": "Escaleras de purpur",
+    "method": "block_form_pattern"
+  },
+  "minecraft:quartz": {
+    "es_es": "Cuarzo del Nether",
+    "es_latam": "Cuarzo del Nether",
+    "method": "exact_dictionary"
+  },
+  "minecraft:quartz_block": {
+    "es_es": "Bloque de cuarzo",
+    "es_latam": "Bloque de cuarzo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:quartz_bricks": {
+    "es_es": "Ladrillos de cuarzo",
+    "es_latam": "Ladrillos de cuarzo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:quartz_pillar": {
+    "es_es": "Pilar de cuarzo",
+    "es_latam": "Pilar de cuarzo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:quartz_slab": {
+    "es_es": "Losa de cuarzo",
+    "es_latam": "Losa de cuarzo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:quartz_stairs": {
+    "es_es": "Escaleras de cuarzo",
+    "es_latam": "Escaleras de cuarzo",
+    "method": "block_form_pattern"
+  },
+  "minecraft:rabbit_stew": {
+    "es_es": "Estofado de conejo",
+    "es_latam": "Estofado de conejo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:rail": {
+    "es_es": "Raíl",
+    "es_latam": "Riel",
+    "method": "exact_dictionary"
+  },
+  "minecraft:raiser_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura raiser",
+    "es_latam": "Plantilla de herrería: adorno de armadura raiser",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:raw_copper": {
+    "es_es": "Cobre en bruto",
+    "es_latam": "Cobre en bruto",
+    "method": "exact_dictionary"
+  },
+  "minecraft:raw_copper_block": {
+    "es_es": "Bloque de cobre en bruto",
+    "es_latam": "Bloque de cobre en bruto",
+    "method": "exact_dictionary"
+  },
+  "minecraft:raw_gold": {
+    "es_es": "Oro en bruto",
+    "es_latam": "Oro en bruto",
+    "method": "exact_dictionary"
+  },
+  "minecraft:raw_gold_block": {
+    "es_es": "Bloque de oro en bruto",
+    "es_latam": "Bloque de oro en bruto",
+    "method": "exact_dictionary"
+  },
+  "minecraft:raw_iron": {
+    "es_es": "Hierro en bruto",
+    "es_latam": "Hierro en bruto",
+    "method": "exact_dictionary"
+  },
+  "minecraft:raw_iron_block": {
+    "es_es": "Bloque de hierro en bruto",
+    "es_latam": "Bloque de hierro en bruto",
+    "method": "exact_dictionary"
+  },
+  "minecraft:recovery_compass": {
+    "es_es": "Brújula de recuperación",
+    "es_latam": "Brújula de recuperación",
+    "method": "exact_dictionary"
+  },
+  "minecraft:red_banner": {
+    "es_es": "Estandarte rojo",
+    "es_latam": "Estandarte rojo",
+    "method": "color_pattern"
+  },
+  "minecraft:red_bed": {
+    "es_es": "Cama roja",
+    "es_latam": "Cama roja",
+    "method": "color_pattern"
+  },
+  "minecraft:red_bundle": {
+    "es_es": "Saco rojo",
+    "es_latam": "Bolsa roja",
+    "method": "color_pattern"
+  },
+  "minecraft:red_candle": {
+    "es_es": "Vela roja",
+    "es_latam": "Vela roja",
+    "method": "color_pattern"
+  },
+  "minecraft:red_carpet": {
+    "es_es": "Alfombra roja",
+    "es_latam": "Alfombra roja",
+    "method": "color_pattern"
+  },
+  "minecraft:red_concrete_powder": {
+    "es_es": "Cemento rojo",
+    "es_latam": "Polvo de concreto rojo",
+    "method": "color_pattern"
+  },
+  "minecraft:red_dye": {
+    "es_es": "Tinte rojo",
+    "es_latam": "Tinte rojo",
+    "method": "color_pattern"
+  },
+  "minecraft:red_harness": {
+    "es_es": "Arnés rojo",
+    "es_latam": "Arnés rojo",
+    "method": "color_pattern"
+  },
+  "minecraft:red_mushroom": {
+    "es_es": "Champiñón rojo",
+    "es_latam": "Hongo rojo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:red_nether_brick_slab": {
+    "es_es": "Losa de ladrillos rojos del nether",
+    "es_latam": "Losa de ladrillos rojos del nether",
+    "method": "block_form_pattern"
+  },
+  "minecraft:red_nether_brick_stairs": {
+    "es_es": "Escaleras de ladrillos rojos del nether",
+    "es_latam": "Escaleras de ladrillos rojos del nether",
+    "method": "block_form_pattern"
+  },
+  "minecraft:red_nether_brick_wall": {
+    "es_es": "Muro de ladrillos rojos del nether",
+    "es_latam": "Muro de ladrillos rojos del nether",
+    "method": "block_form_pattern"
+  },
+  "minecraft:red_nether_bricks": {
+    "es_es": "Ladrillos rojos del Nether",
+    "es_latam": "Ladrillos rojos del Nether",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:red_sandstone": {
+    "es_es": "Arenisca roja",
+    "es_latam": "Arenisca roja",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:red_sandstone_slab": {
+    "es_es": "Losa de arenisca roja",
+    "es_latam": "Losa de arenisca roja",
+    "method": "block_form_pattern"
+  },
+  "minecraft:red_sandstone_stairs": {
+    "es_es": "Escaleras de arenisca roja",
+    "es_latam": "Escaleras de arenisca roja",
+    "method": "block_form_pattern"
+  },
+  "minecraft:red_sandstone_wall": {
+    "es_es": "Muro de arenisca roja",
+    "es_latam": "Muro de arenisca roja",
+    "method": "block_form_pattern"
+  },
+  "minecraft:red_shulker_box": {
+    "es_es": "Caja de shulker roja",
+    "es_latam": "Caja de shulker roja",
+    "method": "color_pattern"
+  },
+  "minecraft:red_stained_glass": {
+    "es_es": "Cristal tintado de rojo",
+    "es_latam": "Vidrio tintado de rojo",
+    "method": "color_pattern"
+  },
+  "minecraft:red_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de rojo",
+    "es_latam": "Panel de vidrio tintado de rojo",
+    "method": "color_pattern"
+  },
+  "minecraft:red_terracotta": {
+    "es_es": "Terracota roja",
+    "es_latam": "Terracota roja",
+    "method": "color_pattern"
+  },
+  "minecraft:red_tulip": {
+    "es_es": "Tulipán rojo",
+    "es_latam": "Tulipán rojo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:red_wool": {
+    "es_es": "Lana roja",
+    "es_latam": "Lana roja",
+    "method": "color_pattern"
+  },
+  "minecraft:redstone": {
+    "es_es": "Polvo de redstone",
+    "es_latam": "Polvo de redstone",
+    "method": "exact_dictionary"
+  },
+  "minecraft:redstone_block": {
+    "es_es": "Bloque de redstone",
+    "es_latam": "Bloque de redstone",
+    "method": "exact_dictionary"
+  },
+  "minecraft:redstone_lamp": {
+    "es_es": "Lámpara de redstone",
+    "es_latam": "Lámpara de redstone",
+    "method": "exact_dictionary"
+  },
+  "minecraft:redstone_torch": {
+    "es_es": "Antorcha de redstone",
+    "es_latam": "Antorcha de redstone",
+    "method": "exact_dictionary"
+  },
+  "minecraft:repeater": {
+    "es_es": "Repetidor de redstone",
+    "es_latam": "Repetidor de redstone",
+    "method": "exact_dictionary"
+  },
+  "minecraft:resin_block": {
+    "es_es": "Bloque de resina",
+    "es_latam": "Bloque de resina",
+    "method": "exact_dictionary"
+  },
+  "minecraft:resin_brick_slab": {
+    "es_es": "Losa de ladrillos de resina",
+    "es_latam": "Losa de ladrillos de resina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:resin_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de resina",
+    "es_latam": "Escaleras de ladrillos de resina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:resin_brick_wall": {
+    "es_es": "Muro de ladrillos de resina",
+    "es_latam": "Muro de ladrillos de resina",
+    "method": "block_form_pattern"
+  },
+  "minecraft:resin_bricks": {
+    "es_es": "Ladrillos de resina",
+    "es_latam": "Ladrillos de resina",
+    "method": "exact_dictionary"
+  },
+  "minecraft:resin_clump": {
+    "es_es": "Pegote de resina",
+    "es_latam": "Grumo de resina",
+    "method": "exact_dictionary"
+  },
+  "minecraft:respawn_anchor": {
+    "es_es": "Nexo de reaparición",
+    "es_latam": "Ancla de reaparición",
+    "method": "exact_dictionary"
+  },
+  "minecraft:rib_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura rib",
+    "es_latam": "Plantilla de herrería: adorno de armadura rib",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:rose_bush": {
+    "es_es": "Rosal",
+    "es_latam": "Rosal",
+    "method": "exact_dictionary"
+  },
+  "minecraft:saddle": {
+    "es_es": "Montura",
+    "es_latam": "Montura",
+    "method": "exact_dictionary"
+  },
+  "minecraft:sand": {
+    "es_es": "Arena",
+    "es_latam": "Arena",
+    "method": "exact_dictionary"
+  },
+  "minecraft:sandstone": {
+    "es_es": "Arenisca",
+    "es_latam": "Arenisca",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:sandstone_slab": {
+    "es_es": "Losa de arenisca",
+    "es_latam": "Losa de arenisca",
+    "method": "block_form_pattern"
+  },
+  "minecraft:sandstone_stairs": {
+    "es_es": "Escaleras de arenisca",
+    "es_latam": "Escaleras de arenisca",
+    "method": "block_form_pattern"
+  },
+  "minecraft:sandstone_wall": {
+    "es_es": "Muro de arenisca",
+    "es_latam": "Muro de arenisca",
+    "method": "block_form_pattern"
+  },
+  "minecraft:scaffolding": {
+    "es_es": "Andamio",
+    "es_latam": "Andamio",
+    "method": "exact_dictionary"
+  },
+  "minecraft:sea_lantern": {
+    "es_es": "Linterna marina",
+    "es_latam": "Linterna marina",
+    "method": "exact_dictionary"
+  },
+  "minecraft:sentry_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura sentry",
+    "es_latam": "Plantilla de herrería: adorno de armadura sentry",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:shaper_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura shaper",
+    "es_latam": "Plantilla de herrería: adorno de armadura shaper",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:shears": {
+    "es_es": "Tijeras",
+    "es_latam": "Tijeras",
+    "method": "exact_dictionary"
+  },
+  "minecraft:shield": {
+    "es_es": "Escudo",
+    "es_latam": "Escudo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:shulker_box": {
+    "es_es": "Caja de shulker",
+    "es_latam": "Caja de shulker",
+    "method": "exact_dictionary"
+  },
+  "minecraft:silence_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura silence",
+    "es_latam": "Plantilla de herrería: adorno de armadura silence",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:skull_banner_pattern": {
+    "es_es": "Diseño de estandarte: calavera",
+    "es_latam": "Patrón de estandarte: calavera",
+    "method": "exact_dictionary"
+  },
+  "minecraft:slime_ball": {
+    "es_es": "Bola de slime",
+    "es_latam": "Bola de slime",
+    "method": "exact_dictionary"
+  },
+  "minecraft:slime_block": {
+    "es_es": "Bloque de slime",
+    "es_latam": "Bloque de slime",
+    "method": "exact_dictionary"
+  },
+  "minecraft:smithing_table": {
+    "es_es": "Mesa de herrería",
+    "es_latam": "Mesa de herrería",
+    "method": "exact_dictionary"
+  },
+  "minecraft:smoker": {
+    "es_es": "Ahumador",
+    "es_latam": "Ahumador",
+    "method": "exact_dictionary"
+  },
+  "minecraft:smooth_quartz_slab": {
+    "es_es": "Losa de cuarzo liso",
+    "es_latam": "Losa de cuarzo liso",
+    "method": "block_form_pattern"
+  },
+  "minecraft:smooth_quartz_stairs": {
+    "es_es": "Escaleras de cuarzo liso",
+    "es_latam": "Escaleras de cuarzo liso",
+    "method": "block_form_pattern"
+  },
+  "minecraft:smooth_red_sandstone_slab": {
+    "es_es": "Losa de arenisca roja lisa",
+    "es_latam": "Losa de arenisca roja lisa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:smooth_red_sandstone_stairs": {
+    "es_es": "Escaleras de arenisca roja lisa",
+    "es_latam": "Escaleras de arenisca roja lisa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:smooth_sandstone_slab": {
+    "es_es": "Losa de arenisca lisa",
+    "es_latam": "Losa de arenisca lisa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:smooth_sandstone_stairs": {
+    "es_es": "Escaleras de arenisca lisa",
+    "es_latam": "Escaleras de arenisca lisa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:smooth_stone_slab": {
+    "es_es": "Losa de piedra lisa",
+    "es_latam": "Losa de piedra lisa",
+    "method": "block_form_pattern"
+  },
+  "minecraft:snout_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura snout",
+    "es_latam": "Plantilla de herrería: adorno de armadura snout",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:snow": {
+    "es_es": "Nieve",
+    "es_latam": "Nieve",
+    "method": "exact_dictionary"
+  },
+  "minecraft:snow_block": {
+    "es_es": "Bloque de nieve",
+    "es_latam": "Bloque de nieve",
+    "method": "exact_dictionary"
+  },
+  "minecraft:soul_campfire": {
+    "es_es": "Hoguera de almas",
+    "es_latam": "Fogata de almas",
+    "method": "exact_dictionary"
+  },
+  "minecraft:soul_lantern": {
+    "es_es": "Farolillo de almas",
+    "es_latam": "Farol de almas",
+    "method": "exact_dictionary"
+  },
+  "minecraft:soul_torch": {
+    "es_es": "Antorcha de almas",
+    "es_latam": "Antorcha de almas",
+    "method": "exact_dictionary"
+  },
+  "minecraft:spectral_arrow": {
+    "es_es": "Flecha espectral",
+    "es_latam": "Flecha espectral",
+    "method": "exact_dictionary"
+  },
+  "minecraft:spider_eye": {
+    "es_es": "Ojo de araña",
+    "es_latam": "Ojo de araña",
+    "method": "exact_dictionary"
+  },
+  "minecraft:spire_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura spire",
+    "es_latam": "Plantilla de herrería: adorno de armadura spire",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:spruce_boat": {
+    "es_es": "Barca de abeto",
+    "es_latam": "Bote de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_button": {
+    "es_es": "Botón de abeto",
+    "es_latam": "Botón de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_chest_boat": {
+    "es_es": "Barca con cofre de abeto",
+    "es_latam": "Bote con cofre de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_door": {
+    "es_es": "Puerta de abeto",
+    "es_latam": "Puerta de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_fence": {
+    "es_es": "Valla de abeto",
+    "es_latam": "Valla de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_fence_gate": {
+    "es_es": "Puerta de valla de abeto",
+    "es_latam": "Puerta de valla de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_hanging_sign": {
+    "es_es": "Cartel colgante de abeto",
+    "es_latam": "Letrero colgante de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_planks": {
+    "es_es": "Tablones de abeto",
+    "es_latam": "Tablones de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_pressure_plate": {
+    "es_es": "Placa de presión de abeto",
+    "es_latam": "Placa de presión de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_shelf": {
+    "es_es": "Estante de abeto",
+    "es_latam": "Estante de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_sign": {
+    "es_es": "Cartel de abeto",
+    "es_latam": "Letrero de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_slab": {
+    "es_es": "Losa de abeto",
+    "es_latam": "Losa de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_stairs": {
+    "es_es": "Escaleras de abeto",
+    "es_latam": "Escaleras de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_trapdoor": {
+    "es_es": "Trampilla de abeto",
+    "es_latam": "Trampilla de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spruce_wood": {
+    "es_es": "Madera de abeto",
+    "es_latam": "Madera de abeto",
+    "method": "wood_pattern"
+  },
+  "minecraft:spyglass": {
+    "es_es": "Catalejo",
+    "es_latam": "Catalejo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:stick": {
+    "es_es": "Palo",
+    "es_latam": "Palo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:sticky_piston": {
+    "es_es": "Pistón pegajoso",
+    "es_latam": "Pistón pegajoso",
+    "method": "exact_dictionary"
+  },
+  "minecraft:stone": {
+    "es_es": "Piedra",
+    "es_latam": "Piedra",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:stone_axe": {
+    "es_es": "Hacha de piedra",
+    "es_latam": "Hacha de piedra",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:stone_brick_slab": {
+    "es_es": "Losa de ladrillos de piedra",
+    "es_latam": "Losa de ladrillos de piedra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:stone_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de piedra",
+    "es_latam": "Escaleras de ladrillos de piedra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:stone_brick_wall": {
+    "es_es": "Muro de ladrillos de piedra",
+    "es_latam": "Muro de ladrillos de piedra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:stone_bricks": {
+    "es_es": "Ladrillos de piedra",
+    "es_latam": "Ladrillos de piedra",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:stone_button": {
+    "es_es": "Botón de piedra",
+    "es_latam": "Botón de piedra",
+    "method": "exact_dictionary"
+  },
+  "minecraft:stone_hoe": {
+    "es_es": "Azada de piedra",
+    "es_latam": "Azada de piedra",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:stone_pickaxe": {
+    "es_es": "Pico de piedra",
+    "es_latam": "Pico de piedra",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:stone_pressure_plate": {
+    "es_es": "Placa de presión de piedra",
+    "es_latam": "Placa de presión de piedra",
+    "method": "exact_dictionary"
+  },
+  "minecraft:stone_shovel": {
+    "es_es": "Pala de piedra",
+    "es_latam": "Pala de piedra",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:stone_slab": {
+    "es_es": "Losa de piedra",
+    "es_latam": "Losa de piedra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:stone_spear": {
+    "es_es": "Lanza de piedra",
+    "es_latam": "Lanza de piedra",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:stone_stairs": {
+    "es_es": "Escaleras de piedra",
+    "es_latam": "Escaleras de piedra",
+    "method": "block_form_pattern"
+  },
+  "minecraft:stone_sword": {
+    "es_es": "Espada de piedra",
+    "es_latam": "Espada de piedra",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:stonecutter": {
+    "es_es": "Cortapiedras",
+    "es_latam": "Cortapiedras",
+    "method": "exact_dictionary"
+  },
+  "minecraft:stripped_acacia_wood": {
+    "es_es": "Madera de acacia sin corteza",
+    "es_latam": "Madera de acacia sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_birch_wood": {
+    "es_es": "Madera de abedul sin corteza",
+    "es_latam": "Madera de abedul sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_cherry_wood": {
+    "es_es": "Madera de cerezo sin corteza",
+    "es_latam": "Madera de cerezo sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_crimson_hyphae": {
+    "es_es": "Hifas carmesí peladas",
+    "es_latam": "Hifas carmesí peladas",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_dark_oak_wood": {
+    "es_es": "Madera de roble oscuro sin corteza",
+    "es_latam": "Madera de roble oscuro sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_jungle_wood": {
+    "es_es": "Madera de jungla sin corteza",
+    "es_latam": "Madera de jungla sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_mangrove_wood": {
+    "es_es": "Madera de mangle sin corteza",
+    "es_latam": "Madera de mangle sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_oak_wood": {
+    "es_es": "Madera de roble sin corteza",
+    "es_latam": "Madera de roble sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_pale_oak_wood": {
+    "es_es": "Madera de roble pálido sin corteza",
+    "es_latam": "Madera de roble pálido sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_spruce_wood": {
+    "es_es": "Madera de abeto sin corteza",
+    "es_latam": "Madera de abeto sin corteza",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:stripped_warped_hyphae": {
+    "es_es": "Hifas distorsionada peladas",
+    "es_latam": "Hifas distorsionada peladas",
+    "method": "wood_stripped_pattern"
+  },
+  "minecraft:sugar": {
+    "es_es": "Azúcar",
+    "es_latam": "Azúcar",
+    "method": "exact_dictionary"
+  },
+  "minecraft:sugar_cane": {
+    "es_es": "Caña de azúcar",
+    "es_latam": "Caña de azúcar",
+    "method": "exact_dictionary"
+  },
+  "minecraft:sunflower": {
+    "es_es": "Girasol",
+    "es_latam": "Girasol",
+    "method": "exact_dictionary"
+  },
+  "minecraft:suspicious_stew": {
+    "es_es": "Estofado sospechoso",
+    "es_latam": "Estofado sospechoso",
+    "method": "exact_dictionary"
+  },
+  "minecraft:target": {
+    "es_es": "Diana",
+    "es_latam": "Diana",
+    "method": "exact_dictionary"
+  },
+  "minecraft:tide_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura tide",
+    "es_latam": "Plantilla de herrería: adorno de armadura tide",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:tinted_glass": {
+    "es_es": "Cristal tintado",
+    "es_latam": "Vidrio tintado",
+    "method": "exact_dictionary"
+  },
+  "minecraft:tnt": {
+    "es_es": "Dinamita",
+    "es_latam": "TNT",
+    "method": "exact_dictionary"
+  },
+  "minecraft:tnt_minecart": {
+    "es_es": "Vagoneta con dinamita",
+    "es_latam": "Vagoneta con TNT",
+    "method": "exact_dictionary"
+  },
+  "minecraft:torch": {
+    "es_es": "Antorcha",
+    "es_latam": "Antorcha",
+    "method": "exact_dictionary"
+  },
+  "minecraft:torchflower": {
+    "es_es": "Antorcha floral",
+    "es_latam": "Flor antorcha",
+    "method": "exact_dictionary"
+  },
+  "minecraft:trapped_chest": {
+    "es_es": "Cofre trampa",
+    "es_latam": "Cofre trampa",
+    "method": "exact_dictionary"
+  },
+  "minecraft:tripwire_hook": {
+    "es_es": "Gancho de cuerda",
+    "es_latam": "Gancho de cuerda",
+    "method": "exact_dictionary"
+  },
+  "minecraft:tuff_brick_slab": {
+    "es_es": "Losa de ladrillos de toba",
+    "es_latam": "Losa de ladrillos de toba",
+    "method": "block_form_pattern"
+  },
+  "minecraft:tuff_brick_stairs": {
+    "es_es": "Escaleras de ladrillos de toba",
+    "es_latam": "Escaleras de ladrillos de toba",
+    "method": "block_form_pattern"
+  },
+  "minecraft:tuff_brick_wall": {
+    "es_es": "Muro de ladrillos de toba",
+    "es_latam": "Muro de ladrillos de toba",
+    "method": "block_form_pattern"
+  },
+  "minecraft:tuff_bricks": {
+    "es_es": "Ladrillos de toba",
+    "es_latam": "Ladrillos de toba",
+    "method": "base_block_dictionary"
+  },
+  "minecraft:tuff_slab": {
+    "es_es": "Losa de toba",
+    "es_latam": "Losa de toba",
+    "method": "block_form_pattern"
+  },
+  "minecraft:tuff_stairs": {
+    "es_es": "Escaleras de toba",
+    "es_latam": "Escaleras de toba",
+    "method": "block_form_pattern"
+  },
+  "minecraft:tuff_wall": {
+    "es_es": "Muro de toba",
+    "es_latam": "Muro de toba",
+    "method": "block_form_pattern"
+  },
+  "minecraft:turtle_helmet": {
+    "es_es": "Caparazón de tortuga",
+    "es_latam": "Caparazón de tortuga",
+    "method": "exact_dictionary"
+  },
+  "minecraft:vex_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura vex",
+    "es_latam": "Plantilla de herrería: adorno de armadura vex",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:vine": {
+    "es_es": "Enredaderas",
+    "es_latam": "Enredaderas",
+    "method": "exact_dictionary"
+  },
+  "minecraft:ward_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura ward",
+    "es_latam": "Plantilla de herrería: adorno de armadura ward",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:warped_button": {
+    "es_es": "Botón de distorsionada",
+    "es_latam": "Botón de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_door": {
+    "es_es": "Puerta de distorsionada",
+    "es_latam": "Puerta de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_fence": {
+    "es_es": "Valla de distorsionada",
+    "es_latam": "Valla de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_fence_gate": {
+    "es_es": "Puerta de valla de distorsionada",
+    "es_latam": "Puerta de valla de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_fungus_on_a_stick": {
+    "es_es": "Caña con hongo distorsionado",
+    "es_latam": "Caña con hongo distorsionado",
+    "method": "exact_dictionary"
+  },
+  "minecraft:warped_hanging_sign": {
+    "es_es": "Cartel colgante de distorsionada",
+    "es_latam": "Letrero colgante de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_hyphae": {
+    "es_es": "Hifas distorsionada",
+    "es_latam": "Hifas distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_planks": {
+    "es_es": "Tablones de distorsionada",
+    "es_latam": "Tablones de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_pressure_plate": {
+    "es_es": "Placa de presión de distorsionada",
+    "es_latam": "Placa de presión de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_shelf": {
+    "es_es": "Estante de distorsionada",
+    "es_latam": "Estante de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_sign": {
+    "es_es": "Cartel de distorsionada",
+    "es_latam": "Letrero de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_slab": {
+    "es_es": "Losa de distorsionada",
+    "es_latam": "Losa de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_stairs": {
+    "es_es": "Escaleras de distorsionada",
+    "es_latam": "Escaleras de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:warped_trapdoor": {
+    "es_es": "Trampilla de distorsionada",
+    "es_latam": "Trampilla de distorsionada",
+    "method": "wood_pattern"
+  },
+  "minecraft:waxed_chiseled_copper": {
+    "es_es": "Cobre cincelado encerado",
+    "es_latam": "Cobre cincelado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_bars": {
+    "es_es": "Barrotes de cobre encerado",
+    "es_latam": "Barrotes de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_block": {
+    "es_es": "Bloque de cobre encerado",
+    "es_latam": "Bloque de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_bulb": {
+    "es_es": "Bombilla de cobre encerado",
+    "es_latam": "Bombilla de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_chain": {
+    "es_es": "Cadena de cobre encerado",
+    "es_latam": "Cadena de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_chest": {
+    "es_es": "Cofre de cobre encerado",
+    "es_latam": "Cofre de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_door": {
+    "es_es": "Puerta de cobre encerado",
+    "es_latam": "Puerta de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre encerado",
+    "es_latam": "Estatua de gólem de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_grate": {
+    "es_es": "Rejilla de cobre encerado",
+    "es_latam": "Rejilla de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_lantern": {
+    "es_es": "Farol de cobre encerado",
+    "es_latam": "Farol de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_copper_trapdoor": {
+    "es_es": "Trampilla de cobre encerado",
+    "es_latam": "Trampilla de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_cut_copper": {
+    "es_es": "Cobre cortado encerado",
+    "es_latam": "Cobre cortado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_cut_copper_slab": {
+    "es_es": "Losa de cobre cortado encerado",
+    "es_latam": "Losa de cobre cortado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado encerado",
+    "es_latam": "Escaleras de cobre cortado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_chiseled_copper": {
+    "es_es": "Cobre cincelado expuesto encerado",
+    "es_latam": "Cobre cincelado expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper": {
+    "es_es": "Bloque de cobre expuesto encerado",
+    "es_latam": "Bloque de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_bars": {
+    "es_es": "Barrotes de cobre expuesto encerado",
+    "es_latam": "Barrotes de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_bulb": {
+    "es_es": "Bombilla de cobre expuesto encerado",
+    "es_latam": "Bombilla de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_chain": {
+    "es_es": "Cadena de cobre expuesto encerado",
+    "es_latam": "Cadena de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_chest": {
+    "es_es": "Cofre de cobre expuesto encerado",
+    "es_latam": "Cofre de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_door": {
+    "es_es": "Puerta de cobre expuesto encerado",
+    "es_latam": "Puerta de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre expuesto encerado",
+    "es_latam": "Estatua de gólem de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_grate": {
+    "es_es": "Rejilla de cobre expuesto encerado",
+    "es_latam": "Rejilla de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_lantern": {
+    "es_es": "Farol de cobre expuesto encerado",
+    "es_latam": "Farol de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_copper_trapdoor": {
+    "es_es": "Trampilla de cobre expuesto encerado",
+    "es_latam": "Trampilla de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_cut_copper": {
+    "es_es": "Cobre cortado expuesto encerado",
+    "es_latam": "Cobre cortado expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_cut_copper_slab": {
+    "es_es": "Losa de cobre cortado expuesto encerado",
+    "es_latam": "Losa de cobre cortado expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado expuesto encerado",
+    "es_latam": "Escaleras de cobre cortado expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_exposed_lightning_rod": {
+    "es_es": "Pararrayos de cobre expuesto encerado",
+    "es_latam": "Pararrayos de cobre expuesto encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_lightning_rod": {
+    "es_es": "Pararrayos de cobre encerado",
+    "es_latam": "Pararrayos de cobre encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_chiseled_copper": {
+    "es_es": "Cobre cincelado oxidado encerado",
+    "es_latam": "Cobre cincelado oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper": {
+    "es_es": "Bloque de cobre oxidado encerado",
+    "es_latam": "Bloque de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_bars": {
+    "es_es": "Barrotes de cobre oxidado encerado",
+    "es_latam": "Barrotes de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_bulb": {
+    "es_es": "Bombilla de cobre oxidado encerado",
+    "es_latam": "Bombilla de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_chain": {
+    "es_es": "Cadena de cobre oxidado encerado",
+    "es_latam": "Cadena de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_chest": {
+    "es_es": "Cofre de cobre oxidado encerado",
+    "es_latam": "Cofre de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_door": {
+    "es_es": "Puerta de cobre oxidado encerado",
+    "es_latam": "Puerta de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre oxidado encerado",
+    "es_latam": "Estatua de gólem de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_grate": {
+    "es_es": "Rejilla de cobre oxidado encerado",
+    "es_latam": "Rejilla de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_lantern": {
+    "es_es": "Farol de cobre oxidado encerado",
+    "es_latam": "Farol de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_copper_trapdoor": {
+    "es_es": "Trampilla de cobre oxidado encerado",
+    "es_latam": "Trampilla de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_cut_copper": {
+    "es_es": "Cobre cortado oxidado encerado",
+    "es_latam": "Cobre cortado oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_cut_copper_slab": {
+    "es_es": "Losa de cobre cortado oxidado encerado",
+    "es_latam": "Losa de cobre cortado oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado oxidado encerado",
+    "es_latam": "Escaleras de cobre cortado oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_oxidized_lightning_rod": {
+    "es_es": "Pararrayos de cobre oxidado encerado",
+    "es_latam": "Pararrayos de cobre oxidado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_chiseled_copper": {
+    "es_es": "Cobre cincelado erosionado encerado",
+    "es_latam": "Cobre cincelado erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper": {
+    "es_es": "Bloque de cobre erosionado encerado",
+    "es_latam": "Bloque de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_bars": {
+    "es_es": "Barrotes de cobre erosionado encerado",
+    "es_latam": "Barrotes de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_bulb": {
+    "es_es": "Bombilla de cobre erosionado encerado",
+    "es_latam": "Bombilla de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_chain": {
+    "es_es": "Cadena de cobre erosionado encerado",
+    "es_latam": "Cadena de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_chest": {
+    "es_es": "Cofre de cobre erosionado encerado",
+    "es_latam": "Cofre de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_door": {
+    "es_es": "Puerta de cobre erosionado encerado",
+    "es_latam": "Puerta de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre erosionado encerado",
+    "es_latam": "Estatua de gólem de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_grate": {
+    "es_es": "Rejilla de cobre erosionado encerado",
+    "es_latam": "Rejilla de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_lantern": {
+    "es_es": "Farol de cobre erosionado encerado",
+    "es_latam": "Farol de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_copper_trapdoor": {
+    "es_es": "Trampilla de cobre erosionado encerado",
+    "es_latam": "Trampilla de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_cut_copper": {
+    "es_es": "Cobre cortado erosionado encerado",
+    "es_latam": "Cobre cortado erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_cut_copper_slab": {
+    "es_es": "Losa de cobre cortado erosionado encerado",
+    "es_latam": "Losa de cobre cortado erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado erosionado encerado",
+    "es_latam": "Escaleras de cobre cortado erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:waxed_weathered_lightning_rod": {
+    "es_es": "Pararrayos de cobre erosionado encerado",
+    "es_latam": "Pararrayos de cobre erosionado encerado",
+    "method": "copper_pattern"
+  },
+  "minecraft:wayfinder_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura wayfinder",
+    "es_latam": "Plantilla de herrería: adorno de armadura wayfinder",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:weathered_chiseled_copper": {
+    "es_es": "Cobre cincelado erosionado",
+    "es_latam": "Cobre cincelado erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper": {
+    "es_es": "Bloque de cobre erosionado",
+    "es_latam": "Bloque de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_bars": {
+    "es_es": "Barrotes de cobre erosionado",
+    "es_latam": "Barrotes de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_bulb": {
+    "es_es": "Bombilla de cobre erosionado",
+    "es_latam": "Bombilla de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_chain": {
+    "es_es": "Cadena de cobre erosionado",
+    "es_latam": "Cadena de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_chest": {
+    "es_es": "Cofre de cobre erosionado",
+    "es_latam": "Cofre de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_door": {
+    "es_es": "Puerta de cobre erosionado",
+    "es_latam": "Puerta de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_golem_statue": {
+    "es_es": "Estatua de gólem de cobre erosionado",
+    "es_latam": "Estatua de gólem de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_grate": {
+    "es_es": "Rejilla de cobre erosionado",
+    "es_latam": "Rejilla de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_lantern": {
+    "es_es": "Farol de cobre erosionado",
+    "es_latam": "Farol de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_copper_trapdoor": {
+    "es_es": "Trampilla de cobre erosionado",
+    "es_latam": "Trampilla de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_cut_copper": {
+    "es_es": "Cobre cortado erosionado",
+    "es_latam": "Cobre cortado erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_cut_copper_slab": {
+    "es_es": "Losa de cobre cortado erosionado",
+    "es_latam": "Losa de cobre cortado erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_cut_copper_stairs": {
+    "es_es": "Escaleras de cobre cortado erosionado",
+    "es_latam": "Escaleras de cobre cortado erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:weathered_lightning_rod": {
+    "es_es": "Pararrayos de cobre erosionado",
+    "es_latam": "Pararrayos de cobre erosionado",
+    "method": "copper_pattern"
+  },
+  "minecraft:wheat": {
+    "es_es": "Trigo",
+    "es_latam": "Trigo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:white_banner": {
+    "es_es": "Estandarte blanco",
+    "es_latam": "Estandarte blanco",
+    "method": "color_pattern"
+  },
+  "minecraft:white_bed": {
+    "es_es": "Cama blanca",
+    "es_latam": "Cama blanca",
+    "method": "color_pattern"
+  },
+  "minecraft:white_bundle": {
+    "es_es": "Saco blanco",
+    "es_latam": "Bolsa blanca",
+    "method": "color_pattern"
+  },
+  "minecraft:white_candle": {
+    "es_es": "Vela blanca",
+    "es_latam": "Vela blanca",
+    "method": "color_pattern"
+  },
+  "minecraft:white_carpet": {
+    "es_es": "Alfombra blanca",
+    "es_latam": "Alfombra blanca",
+    "method": "color_pattern"
+  },
+  "minecraft:white_concrete_powder": {
+    "es_es": "Cemento blanco",
+    "es_latam": "Polvo de concreto blanco",
+    "method": "color_pattern"
+  },
+  "minecraft:white_dye": {
+    "es_es": "Tinte blanco",
+    "es_latam": "Tinte blanco",
+    "method": "color_pattern"
+  },
+  "minecraft:white_harness": {
+    "es_es": "Arnés blanco",
+    "es_latam": "Arnés blanco",
+    "method": "color_pattern"
+  },
+  "minecraft:white_shulker_box": {
+    "es_es": "Caja de shulker blanca",
+    "es_latam": "Caja de shulker blanca",
+    "method": "color_pattern"
+  },
+  "minecraft:white_stained_glass": {
+    "es_es": "Cristal tintado de blanco",
+    "es_latam": "Vidrio tintado de blanco",
+    "method": "color_pattern"
+  },
+  "minecraft:white_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de blanco",
+    "es_latam": "Panel de vidrio tintado de blanco",
+    "method": "color_pattern"
+  },
+  "minecraft:white_terracotta": {
+    "es_es": "Terracota blanca",
+    "es_latam": "Terracota blanca",
+    "method": "color_pattern"
+  },
+  "minecraft:white_tulip": {
+    "es_es": "Tulipán blanco",
+    "es_latam": "Tulipán blanco",
+    "method": "exact_dictionary"
+  },
+  "minecraft:white_wool": {
+    "es_es": "Lana blanca",
+    "es_latam": "Lana blanca",
+    "method": "color_pattern"
+  },
+  "minecraft:wild_armor_trim_smithing_template": {
+    "es_es": "Plantilla de herrería: adorno de armadura wild",
+    "es_latam": "Plantilla de herrería: adorno de armadura wild",
+    "method": "armor_trim_pattern"
+  },
+  "minecraft:wildflowers": {
+    "es_es": "Flores silvestres",
+    "es_latam": "Flores silvestres",
+    "method": "exact_dictionary"
+  },
+  "minecraft:wind_charge": {
+    "es_es": "Carga de viento",
+    "es_latam": "Carga de viento",
+    "method": "exact_dictionary"
+  },
+  "minecraft:wither_rose": {
+    "es_es": "Rosa del Wither",
+    "es_latam": "Rosa del Wither",
+    "method": "exact_dictionary"
+  },
+  "minecraft:wither_skeleton_skull": {
+    "es_es": "Calavera de esqueleto del Wither",
+    "es_latam": "Calavera de esqueleto del Wither",
+    "method": "exact_dictionary"
+  },
+  "minecraft:wolf_armor": {
+    "es_es": "Armadura de lobo",
+    "es_latam": "Armadura de lobo",
+    "method": "exact_dictionary"
+  },
+  "minecraft:wooden_axe": {
+    "es_es": "Hacha de madera",
+    "es_latam": "Hacha de madera",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:wooden_hoe": {
+    "es_es": "Azada de madera",
+    "es_latam": "Azada de madera",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:wooden_pickaxe": {
+    "es_es": "Pico de madera",
+    "es_latam": "Pico de madera",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:wooden_shovel": {
+    "es_es": "Pala de madera",
+    "es_latam": "Pala de madera",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:wooden_spear": {
+    "es_es": "Lanza de madera",
+    "es_latam": "Lanza de madera",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:wooden_sword": {
+    "es_es": "Espada de madera",
+    "es_latam": "Espada de madera",
+    "method": "tool_armor_pattern"
+  },
+  "minecraft:writable_book": {
+    "es_es": "Libro y pluma",
+    "es_latam": "Libro y pluma",
+    "method": "exact_dictionary"
+  },
+  "minecraft:yellow_banner": {
+    "es_es": "Estandarte amarillo",
+    "es_latam": "Estandarte amarillo",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_bed": {
+    "es_es": "Cama amarilla",
+    "es_latam": "Cama amarilla",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_bundle": {
+    "es_es": "Saco amarillo",
+    "es_latam": "Bolsa amarilla",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_candle": {
+    "es_es": "Vela amarilla",
+    "es_latam": "Vela amarilla",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_carpet": {
+    "es_es": "Alfombra amarilla",
+    "es_latam": "Alfombra amarilla",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_concrete_powder": {
+    "es_es": "Cemento amarillo",
+    "es_latam": "Polvo de concreto amarillo",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_dye": {
+    "es_es": "Tinte amarillo",
+    "es_latam": "Tinte amarillo",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_harness": {
+    "es_es": "Arnés amarillo",
+    "es_latam": "Arnés amarillo",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_shulker_box": {
+    "es_es": "Caja de shulker amarilla",
+    "es_latam": "Caja de shulker amarilla",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_stained_glass": {
+    "es_es": "Cristal tintado de amarillo",
+    "es_latam": "Vidrio tintado de amarillo",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_stained_glass_pane": {
+    "es_es": "Panel de cristal tintado de amarillo",
+    "es_latam": "Panel de vidrio tintado de amarillo",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_terracotta": {
+    "es_es": "Terracota amarilla",
+    "es_latam": "Terracota amarilla",
+    "method": "color_pattern"
+  },
+  "minecraft:yellow_wool": {
+    "es_es": "Lana amarilla",
+    "es_latam": "Lana amarilla",
+    "method": "color_pattern"
+  }
+}
