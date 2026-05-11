@@ -1,0 +1,1 @@
+"""MC Craftbot backend package."""
