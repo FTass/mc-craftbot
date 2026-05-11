@@ -1710,7 +1710,8 @@
       "minecraft:crafting_shaped",
       "nexo de reaparición",
       "respawn anchor",
-      "respawn_anchor"
+      "respawn_anchor",
+      "nexo de respawn"
     ],
     "category": "misc",
     "station": "Mesa de trabajo",
@@ -33589,7 +33590,7 @@
         "unit": null
       },
       {
-        "item": "Lingote de hierro",
+        "item": "Lingote de netherita",
         "quantity": 1,
         "unit": null
       }
@@ -33602,7 +33603,7 @@
       ],
       [
         "Ladrillos de piedra cincelados",
-        "Lingote de hierro",
+        "Lingote de netherita",
         "Ladrillos de piedra cincelados"
       ],
       [
@@ -54454,5 +54455,34 @@
     "name_es_latam": "Zanahoria dorada",
     "translation_method": "exact_dictionary",
     "source_file": "recipe/golden_carrot.json"
-  }
+  },
+{
+  "id": "herobrine",
+  "name": "Herobrine",
+  "aliases": [
+    "Herobrine",
+    "herobrine",
+    "He Who Must Not Be Named",
+    "minecraft:crafting_forbidden"
+  ],
+  "category": "misc",
+  "station": "Mesa de crafteo",
+  "recipe_type": "minecraft:crafting_shapeless",
+  "recipe_type_label": "Invocación Prohibida",
+  "result_count": 1,
+  "cooking_time": null,
+  "experience": null,
+  "ingredients": [],
+  "grid": [],
+  "steps": [
+    "¿Que estás haciendo aquí?",
+    "Apaga las luces. Todas.",
+    "¿Escuchaste ese sonido? No estabas solo.",
+    "El cielo es rojo. Siempre fue rojo.",
+    "Sus ojos. Solo ojos blancos.",
+    "Ya no puedes salir."
+  ],
+  "usage": "No recomendado.",
+  "notes": "ADVERTENCIA: Algunos jugadores nunca volvieron de aquí."
+}
 ]

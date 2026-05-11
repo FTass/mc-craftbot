@@ -15,13 +15,12 @@ QUESTION_STOP_PHRASES = [
     "como crafteo",
     "como fabricar",
     "como fabrico",
-    "quiero hacer",
+    "quiero hacer", 
     "quiero craftear",
     "necesito hacer",
     "necesito craftear",
     "receta de",
-    "materiales para",
-    "minecraft",
+    
 ]
 
 
